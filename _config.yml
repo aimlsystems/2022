@@ -11,7 +11,7 @@ permalink: /:basename/
 title:            The First International Conference on AI-ML-Systems
 tagline:          An Initiative of the COMSNETS Association
 url:              https://www.aimlsystems.org
-baseurl:          "/2021"
+baseurl:          "/2022"
 
 author:
   name:           'Abhijit Mondal'

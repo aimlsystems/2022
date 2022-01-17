@@ -1,0 +1,42 @@
+encoding: utf-8
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+plugins:          [jekyll-paginate]
+# Permalinks
+# permalink:        pretty
+permalink: /:basename/
+
+# Setup
+title:            The First International Conference on AI-ML-Systems
+tagline:          An Initiative of the COMSNETS Association
+url:              https://www.aimlsystems.org
+baseurl:          "/2021"
+
+author:
+  name:           'Abhijit Mondal'
+  url:            https://abhijitmondal.in
+
+# paginate:         5
+paginate_path:    "blog/page:num/"
+paginate: 2
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/aimlsystems/
+
+
+repository: aimlsystems/2021
+
+
+collections:
+  wpages:
+    output: true
+    permalink: /:path
+
+shortname: "AIMLSystems'21"
+
+
+cfp_pdf: CFP_AIML_Systems-0712.pdf
+

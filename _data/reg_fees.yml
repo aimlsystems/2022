@@ -1,0 +1,31 @@
+"author-local" :
+  title: "Registration Fees for Authors or Non-Authors Attending Physically"
+  fees: 
+    ACM Member: ₹ 10,000
+    Non-Member: ₹ 12,000
+    ACM Student Member: ₹ 4,000
+    Student Non Member: ₹ 5,000
+
+"non-author-local" :
+  title: "Registration Fees for Non-Authors Attending Virtually"
+  fees: 
+    ACM Member: ₹ 5,000
+    Non-Member: ₹ 7,000
+    ACM Student Member: ₹ 2,000
+    Student Non Member: ₹ 3,000
+
+"author-int" :
+  title: "Registration Fees for Authors or Non-Authors Attending Physically"
+  fees: 
+    ACM Member: US$ 350
+    Non-Member: US$ 450
+    ACM Student Member: US$ 150
+    Student Non Member: US$ 200
+
+"non-author-int" :
+  title: "Registration Fees for Non-Authors Attending Virtually"
+  fees: 
+    ACM Member: US$ 75
+    Non-Member: US$ 100
+    ACM Student Member: US$ 45
+    Student Non Member: US$ 60

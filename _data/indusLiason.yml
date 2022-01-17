@@ -1,0 +1,18 @@
+panel:
+  topic: MLOps and the Challenges of Deploying ML Models in the Real World
+  moderator: R Chandrashekar
+  time: Saturday, 23 October 2021
+  panelist:
+    - Jai Ganesh
+    - Sunil Vuppula
+    - Manish Gupta
+    - Mayank Mishra
+
+invited:
+  Dinesh Jayagopi:
+    title: Virtual Agent based Intelligent Platform for Multimodal Conversations 
+    abstract:
+      - In this talk, we will discuss technologies for real-time multimodal conversational agents and applications. Multimodal analysis enables understanding user emotion and state, multimodal dialog enables making use of this information along with spoken text and subsequently generate the surface text along with the appropriate state for the virtual agent, and finally the multimodal synthesis module generates suitable nonverbal behavior and prosody for the agent reply. These systems can find applications in healthcare or education, where information can be solicited from the user and a simple task-oriented conversation can be accomplished. Innovations for quickly customizing the avatar appearance and animations are also emerging. In particular, we will discuss an attempt to build a Virtual Agent based UPSC mock interviewing platform called Margadarshi, to train students in rural areas to prepare for IAS interviews conducted by 4-5 panel members. 
+
+  Rekha Singhal:
+    title: Next Generation Enterprise IT Systems (EIT 2.0)

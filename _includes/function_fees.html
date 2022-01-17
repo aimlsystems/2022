@@ -1,0 +1,14 @@
+{% assign fees = site.data.reg_fees[include.fee_type] %}
+
+{:.mb1}
+<b><u>{{ fees["title"] }}</u></b>
+<table class="table table-striped table-hover">
+    <tbody>
+{% for fee in fees["fees"] %}
+    <tr>
+        <td class="fee-type"><b>{{ fee[0] }}</b></td>
+        <td class="fee-value">{{ fee[1] }}</td>
+    </tr>
+{% endfor %}
+    </tbody>
+</table>

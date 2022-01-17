@@ -27,7 +27,7 @@ github:
   repo:           https://github.com/aimlsystems/
 
 
-repository: aimlsystems/2021
+repository: aimlsystems/2022
 
 
 collections:
@@ -35,7 +35,7 @@ collections:
     output: true
     permalink: /:path
 
-shortname: "AIMLSystems'21"
+shortname: "AIMLSystems'22"
 
 
 cfp_pdf: CFP_AIML_Systems-0712.pdf

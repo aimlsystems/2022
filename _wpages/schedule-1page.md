@@ -128,10 +128,10 @@ title: Schedule
 
 <!-- Tab links -->
 <div class="tab">
-  <button class="tablinks" onclick="openCity(event, '20211021')">12-Oct-2021</button>
-  <button class="tablinks" onclick="openCity(event, '20211022')">13-Oct-2021</button>
-  <button class="tablinks" onclick="openCity(event, '20211023')">14-Oct-2021</button>
-  <button class="tablinks" onclick="openCity(event, '20211024')">15-Oct-2021</button>
+  <button class="tablinks" onclick="openCity(event, '20211021')">12-Oct-2022</button>
+  <button class="tablinks" onclick="openCity(event, '20211022')">13-Oct-2022</button>
+  <button class="tablinks" onclick="openCity(event, '20211023')">14-Oct-2022</button>
+  <button class="tablinks" onclick="openCity(event, '20211024')">15-Oct-2022</button>
 </div>
 
 {% include sched_day1.html %}

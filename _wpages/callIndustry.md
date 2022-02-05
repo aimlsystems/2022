@@ -35,45 +35,20 @@ Topics of interest include AI/ML systems machine learning applications in all ma
 {:.text-justify}
 **Reviewing process:** All submissions will be single blind. Authors are allowed to post their paper on arXiv or other public forums. Key dates related to the reviewing process are given below:
 
-* ~~Submission deadline: July 13, 2021~~
-* ~~Submission deadline: July 20, 2021~~
-* Decision notification: September 12, 2021
-* Camera ready deadline: September 19, 2021
-* Conference Dates:  October 21-23, 2021
+* Submission deadline: TBD
+* Submission deadline: TBD
+* Decision notification: TBD
+* Camera ready deadline: TBD
+* Conference Dates:  October 12-15, 2022
 
 {:.text-justify}
-**Submission format:** Research papers must not exceed 6 pages, including any appendix, with unlimited number of pages containing only bibliography. Only electronic submissions in PDF format using the ACM sigconf template (see [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template)) will be considered. The submissions will be through [https://cmt3.research.microsoft.com/AIMLSystems2021](https://cmt3.research.microsoft.com/AIMLSystems2021).
+**Submission format:** Research papers must not exceed 6 pages, including any appendix, with unlimited number of pages containing only bibliography. Only electronic submissions in PDF format using the ACM sigconf template (see [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template)) will be considered. <!--The submissions will be through [https://cmt3.research.microsoft.com/AIMLSystems2022](https://cmt3.research.microsoft.com/AIMLSystems2021).-->
 
-Please select the “Industry and Applications” track on CMT.
+<!--Please select the “Industry and Applications” track on CMT.-->
 
 {:#PC}
 **Program Committee**
-
-* Aniya Aggarwal, IBM Research, India
-* Srikanta Bedathur, IIT Delhi, India
-* Laure Berti-Equille, IRD, France
-* Himanshu Bhatt, Amex
-* Manoj Chinnakotla, Microsoft, India
-* Evelyn Duesterwald, IBM Research AI, United States
-* Rahul Ghosh, American Express
-* Shanmukh Guttula, IBM Research, India
-* Yeye He, Microsoft Research, United States
-* Abhinav Jain, None, India
-* Konstantinos Karanasos, Microsoft, United States
-* Chunbin Lin, Amazon AWS, United States
-* Atri Mandal, IBM research, India
-* Sandya Mannarswamy, Intel, India
-* Ioana Manolescu, Inria and Institut Polytechnique de Paris, France
-* Shashank Mujumdar, IBM Research, India, India
-* Tridib Mukherjee, Games24x7, India
-* Lokesh Nagalapatti, IIT Bombay, India
-* George Papadakis, University of Athens, Greece
-* Hima Patel, IBM Research, India
-* Shourya Roy, Flipkart, india
-* Anshumali Shrivastava, Rice University,
-
-
-
+* To be updated soon
 
 #### Industry Track Chairs:
 

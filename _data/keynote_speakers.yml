@@ -1,102 +1,54 @@
-Research:
-  Sang Cha:
-    - 
-    - 
+#Research:
+  #Sang Cha:
+  #  - 
+  #  - 
 
-  Juliana Freire:
-    -
-    -
-
-  Johannes Gehrke:
-    title: "AI/ML Systems: Current Developments and Future Directions"
-    # bio: Johannes Gehrke is a Technical Fellow at Microsoft and the Managing Director of Microsoft Research at Redmond and the CTO and head of machine learning for Microsoft Teams. He has received an Arthur P. Sloan Fellowship, a Humboldt Research Award, the 2011 IEEE Computer Society Technical Achievement Award, and he is an ACM Fellow and an IEEE Fellow. Johannes co-authored the undergraduate textbook Database Management Systems (McGraw-Hill (2002), currently in its third edition), used at universities all over the world. He is a member of the ACM SIGKDD Executive Committee. From 1999 to 2015, Johannes was on the faculty in the Department of Computer Science at Cornell University where he graduated 25 PhD students and was at the time of his leaving holding the endowed chair of Tisch University Professor. From 2005 to 2008, he was Chief Scientist at FAST Search and Transfer. He has been in product groups at Microsoft since 2012, first building Delve and the Office Graph, then building people and feed experiences across all of Microsoft 365,  and then serving as the chief architect and head of machine learning for the Microsoft Teams backend.  Since June 2020, he has a dual rule across research and product, leading all of Microsoft Research in Redmond and leading AI in Teams.
-
-
-  Sergei Kuznetsov:
-    title: Learning Rules and Taxonomies for Better Explanation
-    abstract: 
-      - The new wave of interest to rule learning is caused by the shortcomings of Deep Learning models and the growing need for Interpretable and Explainable AI. In this talk we consider the issues of rule learning in its relationship to learning taxonomies of subject domains given by exemplars and their descriptions.  In spite of the fact that complexity of generating compact representation of rules is generally intractable, certain realistic constraints and approximation schemes result in efficient algorithmic approaches.
-
-  Geoff Webb:
-    - 
-    - 
-
-  Gerhard Weikum:
-    title: "Knowledge Graphs 2021: Achievements, Challenges and Opportunities"
-    abstract: 
-      - Machines with comprehensive knowledge of the world's entities and their relationships has been a long-standing vision and challenge of AI. Over the last two decades, huge knowledge bases, also known as knowledge graphs, have been automatically constructed from web data and text sources, and have become a key asset for search engines and other use cases. Machine knowledge can be harnessed to semantically interpret text in news, social media and web tables, contributing to  question answering, natural language processing and data analytics. This talk reviews these advances and discusses lessons learned (see <a href="http://dx.doi.org/10.1561/1900000064">http://dx.doi.org/10.1561/1900000064</a> for a comprehensive survey). Moreover, the talk identifies open challenges and new research opportunities.
+  #Gerhard Weikum:
+  #  title: "Knowledge Graphs 2021: Achievements, Challenges and Opportunities"
+  #  abstract: 
+  #    - Machines with comprehensive knowledge of the world's entities and their relationships has been a long-standing vision and challenge of AI. Over the last two decades, huge knowledge bases, also known as knowledge graphs, have been automatically constructed from web data and text sources, and have become a key asset for search engines and other use cases. Machine knowledge can be harnessed to semantically interpret text in news, social media and web tables, contributing to  question answering, natural language processing and data analytics. This talk reviews these advances and discusses lessons learned (see <a href="http://dx.doi.org/10.1561/1900000064">http://dx.doi.org/10.1561/1900000064</a> for a comprehensive survey). Moreover, the talk identifies open challenges and new research opportunities.
     # bio: Gerhard Weikum is a Scientific Director at the Max Planck Institute for Informatics in Saarbruecken, Germany, and an Adjunct Professor at Saarland University. He co-authored a comprehensive textbook on transactional systems, received the VLDB Test-of-Time Award 2002 for his work on automatic database tuning, and is one of the creators of the YAGO knowledge base which was recognized by the WWW Test-of-Time Award in 2018. Weikum is an ACM Fellow and elected member of various academies. He received the ACM SIGMOD Contributions Award in 2011, a Google Focused Research Award in 2011, an ERC Synergy Grant in 2014, and the ACM SIGMOD Edgar F. Codd Innovations Award in 2016.
 
-Industry Insights:
-  Anand Deshpande:
-    title: Deploying Machine Learning to help make Better Decisions
-    abstract:
-      - 
-        - In August 2011, Marc Andressen wrote a prophetic article in the Wall Street
-        - Journal, explaining how he believed industries would transform as “Software
-        - was Eating the World.” Over the last ten years, this theme has played out as
-        - Companies across sectors have focused on Digital Transformation. The first
-        - iteration of Digital Transformation focused on building better experiences for
-        - stakeholders. Bringing data together was essential for creating better
-        - experiences, which led to deploying APIs, data lakes and other data
-        - middleware.
-      -
-        - The success of Digital Transformation has resulted in data systems with
-        - better experiences. However, having fancy dashboards and better user
-        - experiences has not necessarily provided insights to individuals to make
-        - better decisions. Digital Transformation 2.0 will address this and will be about
-        - assisting stakeholders in making better decisions.
-        - In this session, I propose to share how machine learning and artificial
-        - intelligence can exploit the data infrastructure we have set up to help make
-        - better decisions.
-      -
-        - We have created an internal data lake that collects data from different internal
-        - data sources. In the last three years, our team at Persistent Systems has
-        - experimented with building systems that embed machine learning and
-        - artificial intelligence in our processes and automation to deliver precise
-        - guidance to stakeholders to make better decisions. As we started our
-        - experiments focusing on better decisions, we realized that the data we had
-        - collected was not best suited to derive our insights. We also observed that
-        - traditional business intelligence dashboards can be overwhelming and do not
-        - necessarily provide the insights for better decisions.
-      -
-        - In this session, I propose sharing what we have done and what we learned
-        - from these experiments as we embedded machine learning in our processes
-        - and as part of our automation infrastructure. This has helped our team get
-        - better insights precisely when needed.
+#Industry Insights:
+  #Anand Deshpande:
+  #  title: Deploying Machine Learning to help make Better Decisions
+  #  abstract:
+  #    - 
+  #      - In August 2011, Marc Andressen wrote a prophetic article in the Wall Street
+  #      - Journal, explaining how he believed industries would transform as “Software
+  #      - was Eating the World.” Over the last ten years, this theme has played out as
+  #      - Companies across sectors have focused on Digital Transformation. The first
+  #      - iteration of Digital Transformation focused on building better experiences for
+  #      - stakeholders. Bringing data together was essential for creating better
+  #      - experiences, which led to deploying APIs, data lakes and other data
+  #      - middleware.
+  #    -
+  #      - The success of Digital Transformation has resulted in data systems with
+  #      - better experiences. However, having fancy dashboards and better user
+  #      - experiences has not necessarily provided insights to individuals to make
+  #      - better decisions. Digital Transformation 2.0 will address this and will be about
+  #      - assisting stakeholders in making better decisions.
+  #      - In this session, I propose to share how machine learning and artificial
+  #      - intelligence can exploit the data infrastructure we have set up to help make
+  #      - better decisions.
+  #    -
+  #      - We have created an internal data lake that collects data from different internal
+  #      - data sources. In the last three years, our team at Persistent Systems has
+  #      - experimented with building systems that embed machine learning and
+  #      - artificial intelligence in our processes and automation to deliver precise
+  #      - guidance to stakeholders to make better decisions. As we started our
+  #      - experiments focusing on better decisions, we realized that the data we had
+  #      - collected was not best suited to derive our insights. We also observed that
+  #      - traditional business intelligence dashboards can be overwhelming and do not
+  #      - necessarily provide the insights for better decisions.
+  #    -
+  #      - In this session, I propose sharing what we have done and what we learned
+  #      - from these experiments as we embedded machine learning in our processes
+  #      - and as part of our automation infrastructure. This has helped our team get
+  #      - better insights precisely when needed.
     
 
-  Daniel Keller:
-    -
-    -
-
-  Ananth Krishnan:
-    title: Scaling AI, Responsibly
-    abstract: 
-      - 
-        - AI is expected to make a strong positive impact across important sectors such as Healthcare, Agriculture,
-        - Education, Smart Cities &amp; Infrastructure, Mobility &amp; Transportation across the world. In India, the
-        - government and the private sector have been steadily investing in AI in the last four years, as also the
-        - Indian IT Industry with products, platforms and services.
-      -
-        - In this context, Ananth will explore what it takes to scale AI in real world scenarios. With his experience
-        - in overseeing AI Research and Innovation in industry, he will present new developments in increasing
-        - performance and efficiency. He will discuss the seamless integration of AI/ML inference and training into
-        - production IT architectures. Incorporating probabilistic AI/ML predictions into any production process
-        - brings with it the need to monitor correctness and a workflow to correct errors and feed these back for
-        - model re-training on a regular basis. Ananth will highlight the balance AI deployments must maintain to
-        - ensure the cost of the corrective workflows does not outweigh the benefits of AI/ML.
-        - Finally, he will touch upon Cybersecurity, Safety, Legal and Ethical issues relating to AI.
-    
-
-  Rajeev Rastogi:
-    title: Machine Learning Modeling Best Practices
-    abstract: 
-      -
-        - I will talk about best practices when developing Machine Learning models such as generating
-        - uncertainty estimates for predictions, balancing exploitation with exploration, generating
-        - explanations for predictions, handling noise in training data, etc. I will show how we apply
-        - these modeling best practices at Amazon using real-world examples from our India e-commerce
-        - business.
-    # bio: Rajeev Rastogi is the Vice President of Machine Learning at Amazon India. He leads the development of Machine Learning solutions for Amazon’s India business in the areas of Search, Advertising, Deals, Catalog Quality, Payments, Forecasting, Question Answering, Grocery Grading, etc. Previously, he was Vice President of Yahoo! Labs Bangalore and the founding Director of the Bell Labs Research Center in Bangalore, India. Rajeev is an ACM Fellow and a Bell Labs Fellow. He has published over 125 papers, and holds over 100 patents. Rajeev received his B. Tech degree from IIT Bombay, and a PhD degree in Computer Science from the University of Texas, Austin.
+  #Daniel Keller:
+  #  -
+  #  -
 

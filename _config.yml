@@ -8,10 +8,10 @@ plugins:          [jekyll-paginate]
 permalink: /:basename/
 
 # Setup
-title:            The First International Conference on AI-ML-Systems
+title:            The Second International Conference on AI-ML-Systems
 tagline:          An Initiative of the COMSNETS Association
 url:              https://www.aimlsystems.org
-baseurl:          "/2021"
+baseurl:          "/2022"
 
 author:
   name:           'Abhijit Mondal'
@@ -35,7 +35,7 @@ collections:
     output: true
     permalink: /:path
 
-shortname: "AIMLSystems'21"
+shortname: "AIMLSystems'22"
 
 
 cfp_pdf: CFP_AIML_Systems-0712.pdf

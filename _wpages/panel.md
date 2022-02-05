@@ -11,18 +11,21 @@ title: Panel Discussion
 
 <a id="panel-{{ forloop.index }}"></a>
 
+Page in under construction
+
 {:.nt-header}
-## Panel Discussion {{ forloop.index }}
+[//]: ## Panel Discussion {{ forloop.index }}
 
 {:.text-center}
-### {{ panel.time }}
+[//]: ### {{ panel.time }}
 
 {:.nt-panel-title}
-##### Topic: _{{ panel.topic }}_
+[//]: ##### Topic: _{{ panel.topic }}_
 
 {:.nt-panel-title}
-##### Moderator
+[//]: ##### Moderator
 
+<!--
 <div class="row">
 {% assign mem = panel.moderator %}
 <div class="off-3 off-0-medium col-6 col-12-medium">
@@ -39,7 +42,7 @@ title: Panel Discussion
     </div>
 </div>
 </div>
-
+-->
 {% assign committee = panel.panelist %}
 
 {% if committee.size > 0 %}

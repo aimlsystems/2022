@@ -30,7 +30,7 @@ var st = srvTime();
 var stdate = new Date(st);
 var dirft = new Date().getTime() - stdate
 
-var countDownDate = new Date("Oct 21, 2021 08:00:00").getTime();
+var countDownDate = new Date("Oct 12, 2022 08:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {

@@ -22,7 +22,7 @@ We invite applicants to submit an extended 2 page abstract compiling your resear
 {:.text-justify}
 The extended abstract may be upto 2 pages with an additional page for references. Be mindful of the following:
 
-* Describe your progress as of the date of submission (August 2021), and your anticipated progress by the workshop date (October 2021), being careful to distinguish between work that has already been accomplished and work that remains to be done.
+* Describe your progress as of the date of submission (TBD), and your anticipated progress by the workshop date (TBD), being careful to distinguish between work that has already been accomplished and work that remains to be done.
 * Clearly identify which work is done by you, and which work is done by collaborators, such as your thesis supervisor and/or other students in your research group (if there are any). 
 * Include a title for your work (please do not title it “Thesis Summary”).
 * Remember that the audience for your thesis summary includes people who are knowledgeable about AI and ML, but are not necessarily experts in the narrow topic of your thesis. Introduce the content at a high enough level so that the general AIML audience can understand your story, but also include enough low-level detail so that the experts will appreciate your unique contribution.
@@ -48,7 +48,7 @@ A one-page information sheet that includes the following:
 * List of up to 5 keywords 
 
 
-Submission site: [https://cmt3.research.microsoft.com/AIMLSystems2021/](https://cmt3.research.microsoft.com/AIMLSystems2021/).
+Submission site: To be updated soon<!--[https://cmt3.research.microsoft.com/AIMLSystems2022/](https://cmt3.research.microsoft.com/AIMLSystems2022/).-->
 
 
 ##### Upon Acceptance
@@ -64,15 +64,15 @@ Please feel free to contact any of the organizing committee for any questions re
 
 
 ##### Key Dates
-* ~~Paper submissions due: August 22, 2021~~
-* ~~Paper submissions due: August 30, 2021~~
-* ~~Author notifications (Accept/Reject): September 12, 2021~~
-* Author notifications (Accept/Reject): September 21, 2021
-* Camera-ready submissions due: October 10, 2021
-* Conference dates: October 21-23, 2021
+* Paper submissions due: TBD
+* Paper submissions due: TBD
+* Author notifications (Accept/Reject): TBD
+* Author notifications (Accept/Reject): TBD
+* Camera-ready submissions due: TBD
+* Conference dates: October 12-15, 2022
 
 
 
 ##### Doctoral Symposium Chairs
-
+* To be updated soon 
 {% include function_chairs.html committee="Doctoral Symposium" %}

@@ -11,8 +11,8 @@ menutitle: Contact
 
 
 ##### Website
-* Abhijit Mondal
-> [am@abhijitmondal.in](mailto:am@abhijitmondal.in)
+* Utkalika Satapathy
+> [utkalika.satapathy01@gmail.com](mailto:utkalika.satapathy01@gmail.com)
 
 
 ##### Registration / VISA

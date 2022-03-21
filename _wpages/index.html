@@ -34,7 +34,6 @@ title: Home
 <section id="main" class="wrapper style2">
 	<!-- <div class="title">Important Dates</div> -->
 	<div class="title">Keynotes</div>
-	<center>To be updated soon </center>
 	<div class="container">
 				<!-- <div class="spcl-img">
 					<h2></h2>
@@ -53,7 +52,7 @@ title: Home
 
 {% for cat in site.data.keynote_speakers %}
 {% assign speakers = cat[1] %}
-<h2 class="nt-header">{{ cat[0] }} Keynotes </h2>
+<!--<h2 class="nt-header">{{ cat[0] }} Keynotes </h2>-->
 <div class=row>
 
 {% assign sm-modulo = speakers.size | modulo: 2 %}
@@ -83,6 +82,9 @@ title: Home
 			<div class="nt-feature-pad">
 				<h3><a href="{{ site.data.peoples[mem][2] | default: "#" }}" target="_blank">{{ site.data.peoples[mem][0] | default: mem }}</a></h3>
 				<p>{{ site.data.peoples[mem][1] | default: ""}}</p>
+				{%- if detail['title'] -%}
+                <p><a href="{{ site.baseurl }}/keynote_details#keynote_{{ talkId }}_{{ catId }}" class="btn">Detail</a></p>
+                {%- endif -%}
 			</div>
 		</div>
 	</div>

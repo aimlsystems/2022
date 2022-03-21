@@ -1,4 +1,4 @@
-#Research:
+Research:
   #Sang Cha:
   #  - 
   #  - 
@@ -9,6 +9,26 @@
   #    - Machines with comprehensive knowledge of the world's entities and their relationships has been a long-standing vision and challenge of AI. Over the last two decades, huge knowledge bases, also known as knowledge graphs, have been automatically constructed from web data and text sources, and have become a key asset for search engines and other use cases. Machine knowledge can be harnessed to semantically interpret text in news, social media and web tables, contributing to  question answering, natural language processing and data analytics. This talk reviews these advances and discusses lessons learned (see <a href="http://dx.doi.org/10.1561/1900000064">http://dx.doi.org/10.1561/1900000064</a> for a comprehensive survey). Moreover, the talk identifies open challenges and new research opportunities.
     # bio: Gerhard Weikum is a Scientific Director at the Max Planck Institute for Informatics in Saarbruecken, Germany, and an Adjunct Professor at Saarland University. He co-authored a comprehensive textbook on transactional systems, received the VLDB Test-of-Time Award 2002 for his work on automatic database tuning, and is one of the creators of the YAGO knowledge base which was recognized by the WWW Test-of-Time Award in 2018. Weikum is an ACM Fellow and elected member of various academies. He received the ACM SIGMOD Contributions Award in 2011, a Google Focused Research Award in 2011, an ERC Synergy Grant in 2014, and the ACM SIGMOD Edgar F. Codd Innovations Award in 2016.
 
+  Carlos Guestrin:
+      title:
+      abstract:
+        -
+      bio:
+
+  Sunita Sarawagi:
+      title:
+      abstract:
+        -
+      bio:
+  
+  Partha Pratim Talukdar:
+      title:
+      abstract:
+        -
+      bio:
+
+
+  
 #Industry Insights:
   #Anand Deshpande:
   #  title: Deploying Machine Learning to help make Better Decisions

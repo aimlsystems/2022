@@ -75,6 +75,11 @@ The areas of interest are broadly categorized into the following three streams:
 * Camera ready deadline: September 12, 2022
 * Conference dates: October 12-15, 2022
 
+#### Important URLs
+
+* Conference website: [https://www.aimlsystems.org/2022/](https://www.aimlsystems.org/2022/) 
+* Paper submissions: [https://cmt3.research.microsoft.com/AIMLSystems2022/](https://cmt3.research.microsoft.com/AIMLSystems2022/)
+
 
 #### Style and Author Instructions
 

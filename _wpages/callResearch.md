@@ -19,11 +19,9 @@ network systems etc.) and, the use of AI/ML in the design of socio-economic syst
 public healthcare, and security.  The goal is to bring together these diverse communities and
 elicit connections between them.
 
-<!--
 <div class="callout callout-primary me-4">
 <a href="{{ site.baseurl }}/docs/{{ site.cfp_pdf }}?{{ site.time | date: "%s" }}" download="AIMLSystems - Call for Papers.pdf"><i class="bi bi-download" style="margin-right: 10px;"></i>  Download PDF version of the Call For Papers</a>
 </div>
--->
 
 #### Topics of Interest
 

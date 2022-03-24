@@ -8,16 +8,15 @@ menutitle: Call for Research Papers
 ### Call for Research Papers
 
 {:.text-justify.pe-4}
-AIMLSystems is a brand new conference targeting research in the intersection of AI/ML
-techniques and systems engineering. Through this conference we plan to bring out and highlight
-the natural connections with these two fields. Specifically we explore how immense strides in
-AI/ML techniques are made possible through computational systems research (e.g.,
-improvements in CPU/GPU architectures, data-intensive infrastructure, communications etc.), 
-how the use of AI/ML can help in the continuous and workload-driven design space exploration
-of computational systems (e.g., self-tuning databases, learning compiler optimizers, learnable
-network systems etc.) and, the use of AI/ML in the design of socio-economic systems such as
-public healthcare, and security.  The goal is to bring together these diverse communities and
-elicit connections between them.
+AIMLSystems is a new conference targeting research at the intersection of AI/ML 
+techniques and systems engineering. Through this conference we plan to bring out and highlight 
+the natural connections between these two fields and their application to socio-economic systems. 
+Specifically we explore how immense strides in AI/ML techniques are made possible through 
+computational systems research (e.g., improvements in CPU/GPU architectures, data-intensive infrastructure, and 
+communications ), how the use of AI/ML can help in the continuous and workload-driven design space exploration 
+of computational systems (e.g., self-tuning databases, learning compiler optimisers, and learnable 
+network systems ), and the use of AI/ML in the design of socio-economic systems such as public healthcare, and security. 
+The goal is to bring together these diverse communities and elicit connections between them.
 
 <div class="callout callout-primary me-4">
 <a href="{{ site.baseurl }}/docs/{{ site.cfp_pdf }}?{{ site.time | date: "%s" }}" download="AIMLSystems - Call for Papers.pdf"><i class="bi bi-download" style="margin-right: 10px;"></i>  Download PDF version of the Call For Papers</a>
@@ -29,40 +28,57 @@ The areas of interest are broadly categorized into the following three streams:
 
 1. Systems for AI/ML, including but not limited to:  
   * CPU/GPU architectures for AI/ML
-  * Embedded hardware for AI/ML workloads
+  * Specialized/Embedded hardware for AI/ML workloads
   * Data intensive systems for efficient and distributed training
   * Challenges in production deployment of ML systems
-  * Efficient model training, optimization and inference
+  * ML programming models, languages, and abstractions,
+  * ML compilers and runtime 
+  * Efficient systems for data preparation and processing
+  * Systems for visualization of data, models, and predictions
+  * Testing, debugging, and monitoring of ML applications
+  * Cloud-computing for machine and deep learning
+  * Machine and deep learning “as-a-service”
+  * Efficient model training, optimization and inference 
   * Hardware efficient ML methods
   * Resource-constrained ML
+  * Tiny Machine Learning
+  * Embedded and Edge Artificial Intelligence
+  * Distributed and parallel learning algorithms
+  * MLOps (data collection, monitoring and re-training)
+
 2. AI/ML for Systems, including but not limited to: 
   * AI/ML for VLSI and architecture design
   * AI/ML in compiler optimization 
   * AI/ML in data management - including database optimizations, virtualization, etc.
   * AI/ML for networks - design of networks, load modeling, etc.
   * AI/ML for power management - green computing, power models, etc.
-3. Applications of AI/ML in Socio-Economic Systems Design, which includes, but not
-limited to: 
+  * AI/ML for Cloud Computing
+  * AI/ML for IOT networks
+
+3. AI/ML for Socio-Economic Systems Design, which includes, but not limited to: 
   * Computational design and analysis of socio-economic systems
   * Fair and bias-free systems for social welfare, business platforms
   * Applications of AI/ML in the design, short-/long-term analysis of cyber-physical systems
   * Mechanism design for socio-economic systems
+  * Fairness, interpretability and explainability for ML applications
+  * Privacy and security in AI/ML systems
+  * Sustainability in AI/ML systems
+  * Ethics in AI/ML systems
   * Applications of AI/ML in financial systems
 
 
 [&nbsp;](#imp_date){:#imp_date}
 #### Important Dates
 
-* Paper submissions due: TBD
-* Paper submissions due: TBD
-* Author notifications: TBD
-* Camera ready deadline: TBD
+* Paper submissions due: July 5, 2022
+* Author notifications:  August 30, 2022
+* Camera ready deadline: September 12, 2022
 * Conference dates: October 12-15, 2022
 
 
 #### Style and Author Instructions
 
-Research papers must not exceed 6 pages, including any appendix, with unlimited number of pages containing only bibliography. Only electronic submissions in PDF format using the ACM sigconf template (see [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template)) will be considered. <!-- The submissions will be through [https://cmt3.research.microsoft.com/AIMLSystems2022](https://cmt3.research.microsoft.com/AIMLSystems2022). -->
+Research papers must not exceed 6 pages, including any appendix, with unlimited number of pages containing only bibliography. Only electronic submissions in PDF format using the ACM sigconf template (see [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template)) will be considered. The submissions will be through [https://cmt3.research.microsoft.com/AIMLSystems2022/](https://cmt3.research.microsoft.com/AIMLSystems2022/).
 
 Papers can be submitted under any of the three main topics listed above. Authors are required to make a primary topic selection, with optional secondary topics for each paper. Number of papers accepted under each topic is not capped. We will accept all papers that meet the high quality and innovation levels required by the AIMLSystems conference. All papers that are accepted will appear in the proceedings. 
 
@@ -98,11 +114,9 @@ A paper submitted to AIMLSystems can not be under review at any other conference
 
 
 #### Program Chairs
-To be updated 
-
-[//]:Srikanta Bedathur (IIT Delhi, India) \
-[//]:Manoj Chinnakotla (Microsoft, AI and Research, Bellevue, USA) \
-[//]:Ioana Manolescu (Inria and Institut Polytechnique de Paris, France)
+Sumohana S. Channappayya (IIT Hyderabad, India) \
+Srujana Merugu (Amazon India) \
+Manuel Roveri (Politecnico di Milano, Italy)
 
 
 

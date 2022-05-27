@@ -42,7 +42,4 @@ To be updated
 [//]:1. Chitra Babu, SSN College of Engineering,
 
 #### Demonstration Chairs
-To be updated
-
-
 {% include function_chairs.html committee="Demo" %}

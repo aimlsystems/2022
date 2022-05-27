@@ -74,5 +74,4 @@ Please feel free to contact any of the organizing committee for any questions re
 
 
 ##### Doctoral Symposium Chairs
-* To be updated soon 
 {% include function_chairs.html committee="Doctoral Symposium" %}

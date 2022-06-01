@@ -5,73 +5,65 @@ menutitle: Call For Doctoral Symposium Papers
 ---
 
 ### Call For Doctoral Symposium Papers
+{:.text-justify}
+The Doctoral (and other Young Researcher) Symposium at AIMLSystems 2022 invites submissions from Masters/PhD students and postdoctoral fellows. This is a unique opportunity for young researchers to have fruitful peer-to-peer discussions and to get feedback from leading senior researchers about their current research work, including developing a better understanding of the problems at hand, overarching principles, the limitations of current methods, and presenting new techniques and algorithms.
 
-##### Guidelines for Abstract Submission:
+#### Guidelines for Abstract Submission:
 
 {:.text-justify}
-We invite applicants to submit an extended 2 page abstract compiling your research towards your dissertation in a coherent manner. The contents of the abstract may include both already published work and work in progress. We highly recommend that the abstract highlights the following about your research:
+We invite applicants to submit a 2-page extended abstract compiling your research towards your dissertation in a coherent manner. We welcome papers describing published novel research, work-in-progress, and comparison of existing methods and tools (e.g., lessons learned). We recommend that the abstract highlights the following about your research:
 
-* Motivation
+* Motivation 
 * Major contributions of the thesis
 * Key challenges identified or addressed
 * Modeling challenges when deployed as systems for use
 * Empirical and/or qualitative discussion of results
 * Timeline and roadmap for thesis plan (may include some projects that are in future plans)
 
-
 {:.text-justify}
-The extended abstract may be upto 2 pages with an additional page for references. Be mindful of the following:
+Submissions to the Doctoral Symposium should satisfy the following criteria:
 
-* Describe your progress as of the date of submission (TBD), and your anticipated progress by the workshop date (TBD), being careful to distinguish between work that has already been accomplished and work that remains to be done.
-* Clearly identify which work is done by you, and which work is done by collaborators, such as your thesis supervisor and/or other students in your research group (if there are any). 
-* Include a title for your work (please do not title it “Thesis Summary”).
-* Remember that the audience for your thesis summary includes people who are knowledgeable about AI and ML, but are not necessarily experts in the narrow topic of your thesis. Introduce the content at a high enough level so that the general AIML audience can understand your story, but also include enough low-level detail so that the experts will appreciate your unique contribution.
-* The thesis summary MUST be 2 pages, excluding references (1 additional page for references). Yes, this is tricky to do — but learning how to produce a concise statement of your thesis research is very important!
-* A list of up to 5 keywords summarizing your work. 
-* We encourage you also to include a cover sheet, i.e., one page information (see below).
+* The first author of any submission should be a full-time Masters / PhD student, or a Postdoctoral researcher having completed his / her PhD not earlier than 2020, affiliated with any academic institution.
+* The submission should describe research work towards your current thesis. 
+
+Submissions will be evaluated based on the clarity of the research proposal, the significance of the research work, and relevance to the topics of interest. 
 
 
-##### Cover Sheet
-A one-page information sheet that includes the following:
+#### Topics of Interest
+Topics of interest can be found here: [https://www.aimlsystems.org/2022/callResearch](https://www.aimlsystems.org/2022/callResearch)
 
-* Your full name
-* Contact details (mailing address, email address, daytime phone number)
-* Affiliation: department, university, country
-* Home page (URL)
-* Your gender
-* Country of Citizenship
-* (Optional) Are you a member of an underrepresented minority ethnic group? If so, please specify.
-* Expected graduation date
-* Your thesis advisor’s full name
-* Your thesis advisor’s contact details (title, department, affiliation, mailing address and email address)
-* Please go through the committee members of all the tracks to list upto 5 people in the AI ML community as a suggestion for mentors for yourself during the AIMLSystems Doctoral Symposium.
-* List of up to 5 keywords 
+##### Review Process
+The paper review will follow a single-blind policy.
+
+##### Dual Submission Policy
+* Dual submission is allowed
+* Only one submission per student as the first author is allowed.
+
+Please go through the committee members of all the tracks and list up to 3 experts in your area who can potentially serve as mentors for you during the symposium.
 
 
-Submission site: To be updated soon<!--[https://cmt3.research.microsoft.com/AIMLSystems2022/](https://cmt3.research.microsoft.com/AIMLSystems2022/).-->
-
-
-##### Upon Acceptance
-
+#### Upon Acceptance
 {:.text-justify}
-We will notify the acceptance of your submission via email. Upon acceptance, we invite you to a presentation of your extended abstract to a panel of experts.
+We will notify the acceptance of your submission via email and provide you with the next steps.
 
 {:.text-justify}
 The panel along with your peers attending the symposium will provide constructive feedback on your presentation that hopefully hones your thesis.
 
 {:.text-justify}
-Please feel free to contact any of the organizing committee for any questions regarding your submissions. 
+Please feel free to contact any of the organizing committee for any questions regarding your submissions.
 
 
-##### Key Dates
-* Paper submissions due: TBD
-* Paper submissions due: TBD
-* Author notifications (Accept/Reject): TBD
-* Author notifications (Accept/Reject): TBD
-* Camera-ready submissions due: TBD
+#### Key Dates
+* Paper submissions due: August 15, 2022
+* Author notifications (Accept/Reject): September 30, 2022
 * Conference dates: October 12-15, 2022
 
 
+#### Important URLs
+* Conference website: [https://www.aimlsystems.org/2022/](https://www.aimlsystems.org/2022/)
+* Doctoral Symposium: [https://www.aimlsystems.org/2022/callSymposium](https://www.aimlsystems.org/2022/callSymposium)
+* Paper submissions: [https://cmt3.research.microsoft.com/AIMLSystems2022/](https://cmt3.research.microsoft.com/AIMLSystems2022/) (Please select the "AIMLSystems2022-Doctoral Symposium Track")
 
-##### Doctoral Symposium Chairs
+
+#### Doctoral Symposium Chairs
 {% include function_chairs.html committee="Doctoral Symposium" %}

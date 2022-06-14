@@ -41,9 +41,10 @@ Topics of interest include AI/ML systems machine learning applications in all ma
 * Conference Dates:  October 12-15, 2022
 
 {:.text-justify}
-**Submission format:** Research papers must not exceed 6 pages, including any appendix, with unlimited number of pages containing only bibliography. Only electronic submissions in PDF format using the ACM sigconf template (see [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template)) will be considered. <!--The submissions will be through [https://cmt3.research.microsoft.com/AIMLSystems2022](https://cmt3.research.microsoft.com/AIMLSystems2021).-->
+**Submission format:** Research papers must not exceed 6 pages, including any appendix, with an unlimited number of pages containing only bibliography. Only electronic submissions in PDF format using the ACM sigconf template (see [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template)) will be considered. 
+The submissions will be through [https://cmt3.research.microsoft.com/AIMLSystems2022](https://cmt3.research.microsoft.com/AIMLSystems2022).
 
-<!--Please select the “Industry and Applications” track on CMT.-->
+Please select the “Industry and Applications” track on CMT.
 
 {:#PC}
 **Program Committee**

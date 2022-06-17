@@ -110,7 +110,7 @@ Definition of Conflict of Interest (COI): A paper author has a COI with a PC mem
 
 
 #### Review Process
-All papers will be reviewed by at least 3 reviewers -- additional reviews will be sought if there is a need. Paper review will follow single-blind policy.
+All papers will be reviewed by at least 3 reviewers -- additional reviews will be sought if there is a need. Paper review will follow double-blind policy.
 
 #### Dual Submission Policy
 A paper submitted to AIMLSystems can not be under review at any other conference or journal during the entire time it is considered for review at AIMLSystems, and it must be substantially different from any previously published work or any work under review. After submission and during the review period, submissions to AIMLSystems must not be submitted to other conferences / journals for consideration. However, authors may publish at non-archival venues, such as workshops without proceedings, or as technical reports (including arXiv).

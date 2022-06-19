@@ -83,7 +83,7 @@ The areas of interest are broadly categorized into the following three streams:
 
 #### Style and Author Instructions
 
-Research papers must not exceed 8 pages, excluding appendix, acknowledgements and bibliography. Only electronic submissions in PDF format using the ACM sigconf template (see [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template)) will be considered. The submissions will be through [https://cmt3.research.microsoft.com/AIMLSystems2022/](https://cmt3.research.microsoft.com/AIMLSystems2022/).
+Research papers must not exceed 8 pages, excluding appendix, acknowledgment and bibliography. Only electronic submissions in PDF format using the ACM sigconf template (see [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template)) will be considered. The submissions will be through [https://cmt3.research.microsoft.com/AIMLSystems2022/](https://cmt3.research.microsoft.com/AIMLSystems2022/).
 
 Papers can be submitted under any of the three main topics listed above. Authors are required to make a primary topic selection, with optional secondary topics for each paper. Number of papers accepted under each topic is not capped. We will accept all papers that meet the high quality and innovation levels required by the AIMLSystems conference. All papers that are accepted will appear in the proceedings. 
 

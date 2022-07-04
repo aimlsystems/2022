@@ -5,7 +5,7 @@ menutitle: Call for Research Papers
 ---
 
   <!-- <div class="title">Important Dates</div> -->
-  <div class=" container bd-callout bd-callout-info blink-text" style="width:100%; background-color: lightgrey;">
+  <div class=" container bd-callout bd-callout-info text-attention" style="width:100%; background-color: lightgrey;">
   <div class="blink-text"><marquee behavior="scroll" direction="left">Important Announcement: Given multiple requests for a deadline extension, we have decided to extend the paper submission deadline for AIMLSystems 2022 to July 12, 2022, 11:59 pm AET. Please note that this is a firm deadline.</marquee></div>
   </div>
 

@@ -3041,7 +3041,7 @@ input, select, textarea {
 
 	}
 
-.blink-bg{
+/*.blink-bg{
 		color: #fff;
 		padding: 0px;
 		display: inline-block;
@@ -3067,4 +3067,4 @@ input, select, textarea {
 		50%		{ color: #ef0a1a;}
 		75%		{ color: #254878;}
 		100%	{ color: #04a1d5;}
-	}
+	}*/

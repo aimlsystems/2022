@@ -4,6 +4,10 @@ title: Call for Research Papers
 menutitle: Call for Research Papers
 ---
 
+  <!-- <div class="title">Important Dates</div> -->
+  <div class=" container bd-callout bd-callout-info blink-text" style="width:100%; background-color: lightgrey;">
+  <div class="blink-text"><marquee behavior="scroll" direction="left">Important Announcement: Given multiple requests for a deadline extension, we have decided to extend the paper submission deadline for AIMLSystems 2022 to July 12, 2022, 11:59 pm AET. Please note that this is a firm deadline.</marquee></div>
+  </div>
 
 ### Call for Research Papers
 
@@ -69,8 +73,8 @@ The areas of interest are broadly categorized into the following three streams:
 <!--[&nbsp;](#imp_date){:#imp_date}-->
 #### Important Dates
 
-* ~~Paper submissions due: July 5, 2022~~
-* Paper submissions due: July 12, 2022 (Firm Deadline)
+<!-- * ~~Paper submissions due: July 5, 2022~~ -->
+* #### Paper submissions due: July 12, 2022 (Firm Deadline)
 * Author notifications:  August 30, 2022
 * Camera ready deadline: September 12, 2022
 * Conference dates: October 12-15, 2022

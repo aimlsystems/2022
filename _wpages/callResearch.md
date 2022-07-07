@@ -74,7 +74,8 @@ The areas of interest are broadly categorized into the following three streams:
 #### Important Dates
 
 <!-- * ~~Paper submissions due: July 5, 2022~~ -->
-* #### Paper submissions due: July 12, 2022 (Firm Deadline)
+<div class="text-attention" style="background-color: yellow; width: 450px">
+<ul><li>Paper submissions due: July 12, 2022 (Firm Deadline)</li></ul></div>
 * Author notifications:  August 30, 2022
 * Camera ready deadline: September 12, 2022
 * Conference dates: October 12-15, 2022

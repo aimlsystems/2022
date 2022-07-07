@@ -37,8 +37,10 @@ Topics of interest include AI/ML systems machine learning applications in all ma
 {:.text-justify}
 **Reviewing process:** All submissions will be single blind. Authors are allowed to post their paper on arXiv or other public forums. Key dates related to the reviewing process are given below:
 
+#### Important Dates
 <!-- * ~~Submission deadline: July 5, 2022~~ -->
-* #### Paper submissions due: July 12, 2022 (Firm Deadline)
+<div class="text-attention" style="background-color: yellow; width: 450px">
+<ul><li>Paper submissions due: July 12, 2022 (Firm Deadline)</li></ul></div>
 * Author notifications: August 30, 2022
 * Camera ready deadline: September 12, 2022
 * Conference Dates:  October 12-15, 2022

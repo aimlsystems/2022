@@ -3,9 +3,9 @@ layout: other
 title: Call for Papers Industry Track
 menutitle: Call for Papers Industry Track
 ---
-  <div class=" container bd-callout bd-callout-info text-attention" style="width:100%; background-color: lightgrey; font-size: 20px;">
+<!--   <div class=" container bd-callout bd-callout-info text-attention" style="width:100%; background-color: lightgrey; font-size: 20px;">
   <div class="blink-text"><marquee behavior="scroll" direction="left">Important Announcement: Given multiple requests for a deadline extension, we have decided to extend the paper submission deadline for AIMLSystems 2022 to July 12, 2022, 11:59 pm AOE. Please note that this is a firm deadline.</marquee></div>
-  </div>
+  </div> -->
 
 ### Call for Papers Industry Track
 
@@ -39,8 +39,10 @@ Topics of interest include AI/ML systems machine learning applications in all ma
 
 #### Important Dates
 <!-- * ~~Submission deadline: July 5, 2022~~ -->
-<div class="text-attention" style="background-color: yellow; width: 450px">
-<ul><li>Paper submissions due: July 12, 2022, 11:59 pm AOE.  (Firm Deadline)</li></ul></div>
+<!-- <div class="text-attention" style="background-color: yellow; width: 450px">
+<ul><li>Paper submissions due: July 12, 2022, 11:59 pm AOE.  (Firm Deadline)</li></ul></div> -->
+* ~~Submission deadline: July 5, 2022~~
+* ~~Submission deadline: July 12, 2022, 11:59 pm AOE.  (Firm Deadline)~~
 * Author notifications: August 30, 2022
 * Camera ready deadline: September 12, 2022
 * Conference Dates:  October 12-15, 2022

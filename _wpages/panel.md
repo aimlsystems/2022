@@ -9,9 +9,10 @@ title: Panel Discussion
 ------
 {% endif %}
 
+<div class=" container bd-callout bd-callout-info text-attention" style="width:100%; background-color: lightgrey;  font-size: 20px">
+    <div class="blink-text"><center>Cash Award: Rs. 10,000 only for the best Doctoral Symposium entry.</center></div>
+    </div>
 <a id="panel-{{ forloop.index }}"></a>
-
-Page in under construction
 
 {:.nt-header}
 [//]: ## Panel Discussion {{ forloop.index }}

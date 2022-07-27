@@ -1,6 +1,6 @@
 ---
 layout: other
-title: Panel Discussion
+title: Doctoral Symposium
 ---
 
 {% for panel in site.data.panels %}

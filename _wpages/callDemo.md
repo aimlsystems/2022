@@ -62,8 +62,10 @@ The manuscripts can be submitted in PDF, formatted using ACM sigconf style throu
 
 
 #### Key Dates
-* Abstract Submission deadline: July 15, 2022
-* Submission deadline: July 31, 2022
+* ~~Abstract Submission deadline: July 15, 2022~~
+<!-- * Submission deadline: July 31, 2022 -->
+<div class="text-attention" style="background-color: yellow; width: 650px">
+<ul><li>Submission deadline (Extended): August 15, 2022, 11:59 pm AOE.(Firm Deadline)</li></ul></div>
 * Decision notification: August 30, 2022
 * Final Demonstration Submission: September 15, 2022
 * Conference Dates: October 12-15, 2022

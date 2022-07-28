@@ -49,7 +49,7 @@ title: Doctoral Symposium
 {% if committee.size > 0 %}
 
 {:.nt-panel-title}
-##### Panelists
+##### Speakers and Panelists 
 <div class=row>
 {% assign sm-modulo = committee.size | modulo: 2 %}
 {% assign md-modulo = committee.size | modulo: 3 %}

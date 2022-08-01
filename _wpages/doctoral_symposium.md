@@ -3,7 +3,7 @@ layout: other
 title: Doctoral Symposium
 ---
 <center>
-<h2> Panelist/Speakers</h2>
+<h2> Speakers and Panelists</h2>
 </center>
 {% for cat in site.data.doc_sym_panel %}
 {% assign catId = forloop.index %}

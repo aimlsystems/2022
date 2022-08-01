@@ -2,84 +2,94 @@
 layout: other
 title: Doctoral Symposium
 ---
-
-{% for panel in site.data.panels %}
-
-{% if forloop.first == false %}
-------
+<center>
+<h2> Panelist/Speakers</h2>
+</center>
+{% for cat in site.data.doc_sym_panel %}
+{% assign catId = forloop.index %}
+<!-- {{ cat  }} -->
+{% assign talks = cat[1] %}
+{% if forloop.first == false %} 
+<br>
+<hr>
+<br>
 {% endif %}
+<!--<h3 class="nt-panel-title">{{ cat[0] }} Keynotes </h3>-->
 
-<div class=" container bd-callout bd-callout-info text-attention" style="width:100%; background-color: lightgrey;  font-size: 20px">
-    <div class="blink-text"><center>Cash Award: Rs. 10,000 only for the best Doctoral Symposium entry.</center></div>
-    </div>
-<a id="panel-{{ forloop.index }}"></a>
+<div class="row oc_cntr">
+<div class="col-12">
 
-{:.nt-header}
-[//]: ## Panel Discussion {{ forloop.index }}
-
-{:.text-center}
-[//]: ### {{ panel.time }}
-
-{:.nt-panel-title}
-[//]: ##### Topic: _{{ panel.topic }}_
-
-{:.nt-panel-title}
-[//]: ##### Moderator
-
-<!--
+{% for talk in talks %}
+{% assign talkId = forloop.index %}
+{% assign detail = talk %}
+{% if detail['title'] == nil %}
+{% continue %}
+{% endif %}
+<!-- {{ talk }} -->
+<a id="keynote_{{ forloop.index }}_{{ catId }}"></a>
 <div class="row">
-{% assign mem = panel.moderator %}
-<div class="off-3 off-0-medium col-6 col-12-medium">
-    <div class="row">
-        <div class="col-3">
-            <img class="img-fuild" style="max-width: 120px; max-height: auto;" src="{{ site.baseurl }}/images/peoples/{{ site.data.peoples[mem][3] | default: "avtar.png" }}?{{ site.time | date: "%s" }}">
-        </div>
-        <div class="col-9">
-            <div class="nt-feature-pad">
-                <h3><a href="{{ site.data.peoples[mem][2] | default: "#" }}" target="_blank">{{ site.data.peoples[mem][0] | default: mem }}</a></h3>
-                <p>{{ site.data.peoples[mem][1] | default: ""}}</p>
+    <div class="col-3 col-12-medium">
+        <div class="row text-center">
+        <br>
+        {% for speaker in talk.speakers %}
+        {% assign mem = speaker %}
+            <div class="col-12">
+                        <br>
+                <img class="img-fuild" style="max-width: 120px; max-height: auto;" src="{{ site.baseurl }}/images/peoples/{{ site.data.peoples[mem][3] | default: "avtar.png" }}?{{ site.time | date: "%s" }}">
             </div>
+            <div class="col-12">
+                        <br>
+                <div class="nt-feature-pad">
+                    <h3><a href="{{ site.data.peoples[mem][2] | default: "#" }}" target="_blank">{{ site.data.peoples[mem][0] | default: mem }}</a></h3>
+                    <p>{{ site.data.peoples[mem][1] | default: ""}}</p>
+                </div>
+            </div>
+        {% endfor %}
         </div>
     </div>
-</div>
-</div>
--->
-{% assign committee = panel.panelist %}
-
-{% if committee.size > 0 %}
-
-{:.nt-panel-title}
-##### Speakers and Panelists 
-<div class=row>
-{% assign sm-modulo = committee.size | modulo: 2 %}
-{% assign md-modulo = committee.size | modulo: 3 %}
-{% for mem in committee %}
-{% assign sm-offset = "0" %}
-{% if forloop.last and sm-modulo==1 %}
-{% assign sm-offset = "3" %}
-{% endif %}
-{% assign md-offset = "0" %}
-{% if forloop.last and md-modulo==1 %}
-{% assign md-offset = "4" %}
-{% elsif forloop.rindex==2 and md-modulo==2 %}
-{% assign md-offset = "2" %}
-{% endif %}
-<div class="col-6 col-12-medium">
-    <div class="row">
-        <div class="col-3">
-            <img class="img-fuild" style="max-width: 120px; max-height: auto;" src="{{ site.baseurl }}/images/peoples/{{ site.data.peoples[mem][3] | default: "avtar.png" }}?{{ site.time | date: "%s" }}">
+    <div class="col-9 col-12-medium">
+        <h2>{{ detail['title'] }}</h2>
+        {% if detail['video'] %}
+<!--         <a href="{{ detail['video'] }}" class="btn"> Video </a> -->
+        {% endif %}
+        {% if detail['abstract'] %}
+        {% for d in detail['abstract'] %}
+        <div class="text-justify">
+            {% if forloop.first %}
+            <b>Abstract:</b> 
+            {% else %}
+                &nbsp;&nbsp;&nbsp;&nbsp;
+            {% endif %}
+            {{ d }}
         </div>
-        <div class="col-9">
-            <div class="nt-feature-pad">
-                <h3><a href="{{ site.data.peoples[mem][2] | default: "#" }}" target="_blank">{{ site.data.peoples[mem][0] | default: mem }}</a></h3>
-                <p>{{ site.data.peoples[mem][1] | default: ""}}</p>
-            </div>
+        {% endfor %}
+        {% endif %}
+        {% for speaker in talk.speakers %}
+        {% assign mem = speaker %}
+        {% if site.data.bio[mem] %}
+        {% for b in site.data.bio[mem] %}
+        <div class="text-justify">
+            {% if forloop.first %}
+            <b>Bio
+                {% if talk.speakers.size > 1 %}
+                ({{ mem }})
+                {% endif %}
+            :</b>
+            {% else %}
+                &nbsp;&nbsp;&nbsp;&nbsp;
+            {% endif %}
+            {{ b }}
         </div>
+        {% endfor %}
+        {% endif %}
+        {% endfor %}
     </div>
 </div>
+<br>
+<br>
 {% endfor %}
 </div>
-
-{% endif %}
-
+</div>
 {% endfor %}
+
+

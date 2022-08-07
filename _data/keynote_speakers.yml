@@ -19,11 +19,16 @@ Research:
   -
     speakers:
       - Sunita Sarawagi
-    title: Topic to be updated
+    title: "Natural Language Interfaces to Database Systems: the deep learning way and the challenges therein"
     video: Not availabe right now
     abstract:
       -
-        - To be updated
+        - Recently deep neural models have been shown to surpass traditional rule-based methods for converting natural text to SQL in terms of their capacity of handling diverse natural text. State-of-the-art Text2SQL models leverage large language models and labeled data spanning hundreds of schemas and have yielded significantly higher accuracy on benchmarks compared to rule-based systems. However, when we look beyond leaderboard numbers, several limitations surface.  
+      -  
+        - Text2SQL systems fail to generalize to real-world schemas without additional fine-tuning with schema-specific labeled data which is often unavailable. This has led to many proposals to generate synthetic (Text,SQL) pairs via another deep model for SQL2Text conversion.  
+        - The data they generate lacks the diversity of natural queries, and we explore better methods that are hybrids of earlier template-based and neural methods.  
+      -
+        - Another challenge is on-the-fly incorporation of feedback from users. Memory-based models are a natural choice for online quick adaptation but integrating user feedback with blackbox deep models is non-trivial. The last challenge we discuss is  detecting and interactively correcting  a user query that is wrongly interpreted when the user does not understand SQL. 
 
   -
     speakers:

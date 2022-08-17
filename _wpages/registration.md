@@ -13,7 +13,8 @@ menutitle: Conference Registration
     </a>
 </div>
 <div class="col-3 text-center">
-    <a href="https://www.townscript.com/v2/widget/first-international-conference-on-aiml-systems-342034/booking" target="_popup">
+    <!-- <a href="https://www.townscript.com/v2/widget/first-international-conference-on-aiml-systems-342034/booking" target="_popup"> -->
+        <a href="https://app.eregnow.com/user/login" target="_popup">
         <img src="{{ site.baseurl }}/images/form.png">
         <br>
         <label><strong>Register Now</strong></label>
@@ -23,8 +24,8 @@ menutitle: Conference Registration
 
 <div markdown=1 class="bd-callout bd-callout-info">
 ### Registration Fees
-1. The AIMLSystems'21 registration fee details for **International Delegates** is available [here]({{ site.baseurl }}/registration_fees#int_delegates).
-1. The AIMLSystems'21 registration fee details for **Indian (Local) Delegates** is available [here]({{ site.baseurl }}/registration_fees#local_delegates).
+1. The AIMLSystems'22 registration fee details for **International Delegates** is available [here]({{ site.baseurl }}/registration_fees#int_delegates).
+1. The AIMLSystems'22 registration fee details for **Indian (Local) Delegates** is available [here]({{ site.baseurl }}/registration_fees#local_delegates).
 </div>
 
 <div markdown=1 class="bd-callout bd-callout-info">
@@ -46,7 +47,7 @@ Payment is to be made by a Bank Draft in favor of "COMSNETS Association", payabl
 
 The demand draft should be mailed to the following postal address.
 
-**Mrs. Ashwini Sampath,** <br>
+**Mrs. Chandrika Sridhar,** <br>
 C/o Prof. Anurag Kumar, <br>
 Dept of Electrical Communication Engineering, <br>
 Indian Institute of Science, <br>

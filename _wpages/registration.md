@@ -14,7 +14,7 @@ menutitle: Conference Registration
 </div>
 <div class="col-3 text-center">
     <!-- <a href="https://www.townscript.com/v2/widget/first-international-conference-on-aiml-systems-342034/booking" target="_popup"> -->
-        <a href="https://app.eregnow.com/user/login" target="_popup">
+        <a href="https://in.eregnow.com/ticketing/aimlsystems2022" target="_popup">
         <img src="{{ site.baseurl }}/images/form.png">
         <br>
         <label><strong>Register Now</strong></label>

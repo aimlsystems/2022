@@ -54,7 +54,7 @@ Please feel free to contact any of the organizing committee for any questions re
 
 
 #### Key Dates
-* Paper submissions due: August 15, 2022
+* ~~Paper submissions due: August 15, 2022~~
 * Author notifications (Accept/Reject): September 30, 2022
 * Conference dates: October 12-15, 2022
 

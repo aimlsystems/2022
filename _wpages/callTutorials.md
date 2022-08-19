@@ -85,7 +85,7 @@ tutorial at the conference.
 
 
 #### Key Dates
-* Tutorial submissions due: July 11, 2022
+* ~~Tutorial submissions due: July 11, 2022~~
 * Author notifications (Accept/Reject): August 1st, 2022
 * Camera-ready proceedings: September 9th, 2022
 * Tutorial materials/website: September 15, 2022

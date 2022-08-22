@@ -5,7 +5,7 @@ title: Industry Liaison
 
 {% assign panel = site.data.indusLiason.panel %}
 
-{:.nt-header}
+<!-- {:.nt-header}
 ## Panel Discussion
 
 {:.text-center}
@@ -33,7 +33,7 @@ title: Industry Liaison
     </div>
 </div>
 </div>
-
+ -->
 {% assign committee = panel.panelist %}
 
 {% if committee.size > 0 %}

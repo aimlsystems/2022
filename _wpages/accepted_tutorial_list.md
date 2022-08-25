@@ -1,6 +1,6 @@
 ---
 layout: other
-title: Invited/Accepted Tutorials
+title: Tutorials
 menutitle: Participation Guidelines
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: other
-title: Industry Liaison
+title: Industry Invited Talks
 ---
 
 {% assign panel = site.data.indusLiason.panel %}
@@ -75,8 +75,8 @@ title: Industry Liaison
 
 
 {:.nt-header}
-## Invited Talks
-
+<!-- ## Invited Talks
+ -->
 {% assign speakers = site.data.indusLiason.invited %}
 
 {% assign sm-modulo = speakers.size | modulo: 2 %}

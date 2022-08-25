@@ -20,9 +20,9 @@ menutitle: Contact
 > [chandrika.sridhar@gmail.com](mailto:chandrika.sridhar@gmail.com) \
 > +91 8861452113
 
-* Ashwini Sampath
-> [ashwinis@iisc.ac.in](mailto:ashwinis@iisc.ac.in) \
-> +91 7022731479
+* Sushma Srinivasan
+> [sushmas@iisc.ac.in](mailto:sushmas@iisc.ac.in) \
+> +91 9242494999
 
 
 ##### Sponsorship / Local Arrangements

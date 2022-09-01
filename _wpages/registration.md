@@ -5,21 +5,21 @@ menutitle: Conference Registration
 ---
 
 <div class="row">
-<div class="off-3 col-3 text-center">
+<div class="off-3 col-2 text-center">
     <a href="{{ site.baseurl }}/registration_fees">
         <img src="{{ site.baseurl }}/images/registration_fees.png">
         <br>
         <label><strong>Registration Fees</strong></label>
     </a>
 </div>
-<!-- <div class="off-3 col-3 text-center">
-    <a href="{{ site.baseurl }}/registration_fees">
+<div class="col-2 text-center">
+    <a href="{{ site.baseurl }}/registration_fees_tutorials">
         <img src="{{ site.baseurl }}/images/registration_fees.png">
         <br>
-        <label><strong>Registration Fees</strong></label>
+        <label><strong>Tutorials Registrations Fees</strong></label>
     </a>
-</div> -->
-<div class="col-3 text-center">
+</div>
+<div class="col-2 text-center">
     <!-- <a href="https://www.townscript.com/v2/widget/first-international-conference-on-aiml-systems-342034/booking" target="_popup"> -->
         <a href="https://in.eregnow.com/ticketing/aimlsystems2022" target="_popup">
         <img src="{{ site.baseurl }}/images/form.png">
@@ -28,6 +28,7 @@ menutitle: Conference Registration
     </a>
 </div>
 </div>
+
 
 <div markdown=1 class="bd-callout bd-callout-info">
 ### Registration Fees

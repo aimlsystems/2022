@@ -29,3 +29,15 @@
     Non-Member: US$ 100
     ACM Student Member: US$ 50
     Student Non Member: US$ 70
+
+"physical" :
+  title: "Registration Fees for Tutorials Attending Physically"
+  fees: 
+    Regular: INR 1000
+    Student: INR 500
+
+"virtual" :
+  title: "Registration Fees for Tutorials Attending Virtually"
+  fees: 
+    Regular: INR 500
+    Student: INR 250

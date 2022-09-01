@@ -33,11 +33,13 @@ Research:
   -
     speakers:
       - Partha Pratim Talukdar
-    title: Topic to be updated
+    title: "Scaling Natural Language Processing for the Next Billion Users"
     video: Not availabe right now
     abstract:
       -
-        - To be updated
+        - Even though there are more than 7000 languages in the world, language technologies are available only for a handful of these languages. Lack of training data poses a significant challenge in developing language technologies for these languages. Recent advances in Multilingual Representation Learning presents an opportunity to transfer knowledge and supervision from high web-resource languages to languages with lower web-resources. 
+      -
+        - In this talk, I shall present an overview of research in this exciting and emerging area in the NLU group at Google Research India.
 
   -
     speakers:

@@ -12,6 +12,13 @@ menutitle: Conference Registration
         <label><strong>Registration Fees</strong></label>
     </a>
 </div>
+<div class="off-3 col-3 text-center">
+    <a href="{{ site.baseurl }}/registration_fees">
+        <img src="{{ site.baseurl }}/images/registration_fees.png">
+        <br>
+        <label><strong>Registration Fees</strong></label>
+    </a>
+</div>
 <div class="col-3 text-center">
     <!-- <a href="https://www.townscript.com/v2/widget/first-international-conference-on-aiml-systems-342034/booking" target="_popup"> -->
         <a href="https://in.eregnow.com/ticketing/aimlsystems2022" target="_popup">

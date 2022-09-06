@@ -43,8 +43,9 @@ Topics of interest include AI/ML systems machine learning applications in all ma
 <ul><li>Paper submissions due: July 12, 2022, 11:59 pm AOE.  (Firm Deadline)</li></ul></div> -->
 * ~~Submission deadline: July 5, 2022~~
 * ~~Submission deadline: July 12, 2022, 11:59 pm AOE.  (Firm Deadline)~~
-* Author notifications: August 30, 2022
-* Camera ready deadline: September 12, 2022
+<!-- * Author notifications: August 30, 2022 -->
+* Author notifications: September 9, 2022
+* Camera ready deadline: September 19, 2022
 * Conference Dates:  October 12-15, 2022
 
 {:.text-justify}

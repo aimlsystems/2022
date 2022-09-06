@@ -31,13 +31,13 @@
     Student Non Member: US$ 70
 
 "physical" :
-  title: "Registration Fees for Tutorials Attending Physically"
+  title: "Registration Fees for per Tutorial Attending Physically"
   fees: 
     Regular: INR 1000
     Student: INR 500
 
 "virtual" :
-  title: "Registration Fees for Tutorials Attending Virtually"
+  title: "Registration Fees for per Tutorial Attending Virtually"
   fees: 
     Regular: INR 500
     Student: INR 250

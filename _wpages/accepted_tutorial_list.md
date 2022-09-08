@@ -1,7 +1,7 @@
 ---
 layout: other
 title: Tutorials
-menutitle: Participation Guidelines
+menutitle: Tutorials
 ---
 
 <div markdown=1 class="bd-callout bd-callout-info">

@@ -9,24 +9,20 @@ title: Panel Discussion
 ------
 {% endif %}
 
-<div class=" container bd-callout bd-callout-info text-attention" style="width:100%; background-color: lightgrey;  font-size: 20px">
-    <div class="blink-text"><center>Cash Award: Rs. 10,000 only for the best Doctoral Symposium entry.</center></div>
-    </div>
 <a id="panel-{{ forloop.index }}"></a>
 
 {:.nt-header}
-[//]: ## Panel Discussion {{ forloop.index }}
+## Panel Discussion {{ forloop.index }}
 
-{:.text-center}
-[//]: ### {{ panel.time }}
-
-{:.nt-panel-title}
-[//]: ##### Topic: _{{ panel.topic }}_
+<!-- {:.text-center}
+### {{ panel.time }} -->
 
 {:.nt-panel-title}
-[//]: ##### Moderator
+##### Topic: _{{ panel.topic }}_
 
-<!--
+{:.nt-panel-title}
+##### Moderator
+
 <div class="row">
 {% assign mem = panel.moderator %}
 <div class="off-3 off-0-medium col-6 col-12-medium">
@@ -43,13 +39,16 @@ title: Panel Discussion
     </div>
 </div>
 </div>
--->
+
 {% assign committee = panel.panelist %}
 
 {% if committee.size > 0 %}
 
 {:.nt-panel-title}
 ##### Panelists
+<center>
+<h3>To be updated soon</h3>
+</center>
 <div class=row>
 {% assign sm-modulo = committee.size | modulo: 2 %}
 {% assign md-modulo = committee.size | modulo: 3 %}
@@ -67,7 +66,7 @@ title: Panel Discussion
 <div class="col-6 col-12-medium">
     <div class="row">
         <div class="col-3">
-            <img class="img-fuild" style="max-width: 120px; max-height: auto;" src="{{ site.baseurl }}/images/peoples/{{ site.data.peoples[mem][3] | default: "avtar.png" }}?{{ site.time | date: "%s" }}">
+            <!-- <img class="img-fuild" style="max-width: 120px; max-height: auto;" src="{{ site.baseurl }}/images/peoples/{{ site.data.peoples[mem][3] | default: "avtar.png" }}?{{ site.time | date: "%s" }}"> -->
         </div>
         <div class="col-9">
             <div class="nt-feature-pad">

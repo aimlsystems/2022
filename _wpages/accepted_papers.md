@@ -1,7 +1,7 @@
 ---
 layout: other
-title: Accepted Papers
-menutitle: Accepted Papers
+title: Research Accepted Papers/Posters
+menutitle: Research Accepted Papers/Posters
 ---
 
 # List of accepted papers in AIML Systems 2022

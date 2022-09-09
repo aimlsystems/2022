@@ -12,7 +12,7 @@ menutitle: Research Accepted Papers/Posters
 
 **1. Link-Adaptation for Improved Quality-of-Service in V2V Communication using Reinforcement Learning**
 
-Serene Banerjee (Ericsson)\*; Joy Bose (Samsung R&D Institute India - Bangalore); Sleeba Paul Puthepurakel (Ericsson); Pratyush Kiran Uppuluri (Ericsson); Subhadip Bandyopadhyay (Ericsson); Y Sree Kanth Reddy (Ericsson); Ranjani H. G. (Ericsson)
+Serene Banerjee (Ericsson)\*; Joy Bose (Ericsson); Sleeba Paul Puthepurakel (Ericsson); Pratyush Kiran Uppuluri (Ericsson); Subhadip Bandyopadhyay (Ericsson); Y Sree Kanth Reddy (Ericsson); Ranjani H. G. (Ericsson)
 
 **2. Uncertainty Estimation Using Deep Neural Network and Gradient Boosting Method**
 

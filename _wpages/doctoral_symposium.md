@@ -1,10 +1,10 @@
 ---
 layout: other
-title: Doctoral Symposium
+title: Doctoral Symposium  <br/> Speakers and Panelists
 ---
-<center>
+<!-- <center>
 <h2> Speakers and Panelists</h2>
-</center>
+</center> -->
 {% for cat in site.data.doc_sym_panel %}
 {% assign catId = forloop.index %}
 <!-- {{ cat  }} -->

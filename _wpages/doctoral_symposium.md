@@ -1,7 +1,7 @@
 ---
 layout: other
-title: Doctoral Symposium
-menutitle: Doctoral Symposium  <br/> Speakers and Panelists
+title: Doctoral Symposium <br/> Speakers and Panelists
+menutitle: Doctoral Symposium Speakers and Panelists
 ---
 <!-- <center>
 <h2> Speakers and Panelists</h2>

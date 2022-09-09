@@ -2,19 +2,32 @@ Speakers:
   -
     speakers:
       - Amit Saha
-    title: Talk details to be updated
+    title: "Talk details to be updated"
     # video: Not availabe right now
-    # abstract:
-    #   -
-    #     - To be updated
+    abstract:
+      -
+        - The AIMLSystems conference is in the fascinating intersection of systems engineering and artificial intelligence. The differences between the traditional research and development practices in these two fields could not be more stark! This talk will go into some observations about the operational differences between these two fields and a personal take on how graduate students in this area can navigate through their career path.
   -
     speakers:
       - Soumen Chakrabarti
-    title: Talk details to be updated
+    title: "Temporal Knowledge Graph Representation and Question Answering"
     # video: Not availabe right now
-    # abstract:
-    #   -
-    #     - To be updated
+    
+    abstract:
+      -
+        - "A knowledge graph (KG) consists of labeled (subject, relation, object) or (s,r,o) edges between entity node pairs. KGs are notoriously incomplete.  KG completion (KGC) predicts missing edges, given an incomplete KG.  Temporal KGs associate (s,r,o) triples with a set of times (or a single time instant) during which the relation is valid, leading to tuples of the form (s,r,o,t)."
+      -
+        - "While time-agnostic KGC has witnessed significant research, temporal KGC (TKGC) is in its early days.  In this talk, we first consider the tasks of predicting missing entities (link prediction) and missing time intervals (time prediction) as joint TKGC tasks where entities, relations, and time are all embedded in a uniform, compatible space. We present TimePlex, a novel time-aware KBC method, that also automatically exploits the recurrent nature of some relations and temporal interactions between pairs of relations. TimePlex achieves state-of-the-art performance on both prediction tasks. Second, we show how to exploiit a temporal KG to answer complex temporal questions."
+      -
+        - "While Question Answering over KG (KGQA) has received some attention from the research community, QA over Temporal KGs (Temporal KGQA) is a relatively unexplored area.  We have released CronQuestions, the largest known Temporal KGQA dataset, clearly stratified into buckets of structural complexity. CronQuestions expands the only known previous dataset by a factor of 340x.  We find that various state-of-the-art KGQA methods fall far short of the desired performance on this new dataset. In response, we also propose CronKGQA, a transformer-based solution that exploits recent advances in Temporal KG embeddings, and achieves performance superior to all baselines, yet falling short of human performance for the more complex query structures, underscoring the need for further research."
+      -
+        - "Relevant resource URLs:" 
+      -
+        - <a href="https://github.com/dair-iitd/tkbi" target="_blank">https://github.com/dair-iitd/tkbi</a>
+      -
+        - <a href="https://arxiv.org/abs/2106.01515" target="_blank">https://arxiv.org/abs/2106.01515</a>
+      -
+        - <a href="https://github.com/apoorvumang/CronKGQA" target="_blank">https://github.com/apoorvumang/CronKGQA</a>
 
   -
     speakers:

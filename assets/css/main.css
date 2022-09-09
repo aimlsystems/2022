@@ -3040,6 +3040,18 @@ input, select, textarea {
 						}
 
 	}
+	.oval {
+                width: 160px;
+                height: 80px;
+                background: #1e90FF;
+                border-radius: 40px;
+            }
+    .oval-menu {
+                width: 120px;
+                height: 40px;
+                background: #006400;
+                border-radius: 40px;
+            }
 
 /*.blink-bg{
 		color: #fff;

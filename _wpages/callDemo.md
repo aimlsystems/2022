@@ -1,6 +1,6 @@
 ---
 layout: other
-title: Call For Demonstration Proposals
+title: Call For Demos
 menutitle: Call For Demonstration Proposals
 ---
 

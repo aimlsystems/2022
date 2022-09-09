@@ -1,6 +1,6 @@
 ---
 layout: other
-title: Call For Doctoral Symposium Papers
+title: Call For Doctoral Symposium
 menutitle: Call For Doctoral Symposium Papers
 ---
 

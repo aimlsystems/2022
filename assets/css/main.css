@@ -3048,8 +3048,9 @@ input, select, textarea {
             }
     .oval-menu {
                 width: 120px;
-                height: 40px;
-                background: #006400;
+                height: 42px;
+                background: #1e90FF;
+                /*background: #006400;*/
                 border-radius: 40px;
             }
 

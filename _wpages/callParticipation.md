@@ -13,6 +13,9 @@ menutitle: Call for Participation
 </div>--> 
 
 <!-- ### Call for Participation -->
+<div class="callout callout-primary me-4">
+<a href="{{ site.baseurl }}/docs/{{ site.cfp_pdf }}?{{ site.time | date: "%s" }}" download="AIMLSystems - Call for Participation.pdf"><i class="bi bi-download" style="margin-right: 10px;"></i>  Download PDF version of the Call For Participation</a>
+</div>
 
 {:.text-justify.pe-4}
 AIMLSystems is a new conference targeting research at the intersection of AI/ML 
@@ -25,9 +28,6 @@ of computational systems (e.g., self-tuning databases, learning compiler optimis
 network systems ), and the use of AI/ML in the design of socio-economic systems such as public healthcare, and security. 
 The goal is to bring together these diverse communities and elicit connections between them.
 
-<div class="callout callout-primary me-4">
-<a href="{{ site.baseurl }}/docs/{{ site.cfp_pdf }}?{{ site.time | date: "%s" }}" download="AIMLSystems - Call for Participation.pdf"><i class="bi bi-download" style="margin-right: 10px;"></i>  Download PDF version of the Call For Participation</a>
-</div>
 
 ### Topics of Interest
 

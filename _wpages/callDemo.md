@@ -69,7 +69,8 @@ The manuscripts can be submitted in PDF, formatted using ACM sigconf style throu
 * Conference Dates: October 12-15, 2022
 
 #### Program committee
-To be updated 
+
+*  [Program Committee]({{ site.baseurl }}/committeePro_Demo)
 
 [//]:1. Chitra Babu, SSN College of Engineering,
 

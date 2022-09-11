@@ -1,6 +1,6 @@
 ---
 layout: other
-title: Keynotes Speakers
+title: Keynote Speakers
 ---
 
 {% for cat in site.data.keynote_speakers %}
@@ -51,12 +51,13 @@ title: Keynotes Speakers
         {% for d in detail['abstract'] %}
         <div class="text-justify">
             {% if forloop.first %}
-            <b>Abstract:</b> 
+            <b>Abstract: </b> <br/>
             {% else %}
                 &nbsp;&nbsp;&nbsp;&nbsp;
             {% endif %}
             {{ d }}
         </div>
+        <br/>
         {% endfor %}
         {% endif %}
         {% for speaker in talk.speakers %}
@@ -65,11 +66,10 @@ title: Keynotes Speakers
         {% for b in site.data.bio[mem] %}
         <div class="text-justify">
             {% if forloop.first %}
-            <b>Bio
+            <b>Bio: </b><br/>
                 {% if talk.speakers.size > 1 %}
                 ({{ mem }})
                 {% endif %}
-            :</b>
             {% else %}
                 &nbsp;&nbsp;&nbsp;&nbsp;
             {% endif %}

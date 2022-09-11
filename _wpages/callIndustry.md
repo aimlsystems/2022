@@ -54,9 +54,9 @@ The submissions will be through [https://cmt3.research.microsoft.com/AIMLSystems
 
 Please select the “Industry and Applications” track on CMT.
 
-<!-- {:#PC}
+{:#PC}
 **Program Committee**
-* To be updated soon -->
+*  [Program Committee]({{ site.baseurl }}/committeePro_Industry)
 
 #### Industry Track Chairs:
 

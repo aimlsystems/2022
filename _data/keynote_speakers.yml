@@ -23,11 +23,9 @@ Research:
     video: Not availabe right now
     abstract:
       -
-        - Recently deep neural models have been shown to surpass traditional rule-based methods for converting natural text to SQL in terms of their capacity of handling diverse natural text. State-of-the-art Text2SQL models leverage large language models and labeled data spanning hundreds of schemas and have yielded significantly higher accuracy on benchmarks compared to rule-based systems. However, when we look beyond leaderboard numbers, several limitations surface.  
-      -  
+        - Recently deep neural models have been shown to surpass traditional rule-based methods for converting natural text to SQL in terms of their capacity of handling diverse natural text. State-of-the-art Text2SQL models leverage large language models and labeled data spanning hundreds of schemas and have yielded significantly higher accuracy on benchmarks compared to rule-based systems. However, when we look beyond leaderboard numbers, several limitations surface.
         - Text2SQL systems fail to generalize to real-world schemas without additional fine-tuning with schema-specific labeled data which is often unavailable. This has led to many proposals to generate synthetic (Text,SQL) pairs via another deep model for SQL2Text conversion.  
-        - The data they generate lacks the diversity of natural queries, and we explore better methods that are hybrids of earlier template-based and neural methods.  
-      -
+        - The data they generate lacks the diversity of natural queries, and we explore better methods that are hybrids of earlier template-based and neural methods.
         - Another challenge is on-the-fly incorporation of feedback from users. Memory-based models are a natural choice for online quick adaptation but integrating user feedback with blackbox deep models is non-trivial. The last challenge we discuss is  detecting and interactively correcting  a user query that is wrongly interpreted when the user does not understand SQL. 
 
   -
@@ -37,8 +35,7 @@ Research:
     video: Not availabe right now
     abstract:
       -
-        - Even though there are more than 7000 languages in the world, language technologies are available only for a handful of these languages. Lack of training data poses a significant challenge in developing language technologies for these languages. Recent advances in Multilingual Representation Learning presents an opportunity to transfer knowledge and supervision from high web-resource languages to languages with lower web-resources. 
-      -
+        - Even though there are more than 7000 languages in the world, language technologies are available only for a handful of these languages. Lack of training data poses a significant challenge in developing language technologies for these languages. Recent advances in Multilingual Representation Learning presents an opportunity to transfer knowledge and supervision from high web-resource languages to languages with lower web-resources.  
         - In this talk, I shall present an overview of research in this exciting and emerging area in the NLU group at Google Research India.
 
   -
@@ -49,9 +46,7 @@ Research:
     abstract:
       -
         - "While the trend in machine learning has tended towards building more complicated (black box) models, such models are not as useful for high stakes decisions - black box models have led to mistakes in bail and parole decisions in criminal justice, flawed models in healthcare, and inexplicable loan decisions in finance. Simpler, interpretable models would be better."
-      -
         - "Thus, we consider questions that diametrically oppose the trend in the field: for which types of datasets would we expect to get simpler models at the same level of accuracy as black box models? If such simpler-yet-accurate models exist, how can we use optimization to find these simpler models? In this talk, I present an easy calculation to check for the possibility of a simpler (yet accurate) model before computing one."
-      -
         -  This calculation indicates that simpler-but-accurate models do exist in practice more often than you might think. Also, some types of these simple models are (surprisingly) small enough that they can be memorized or printed on an index card.  
   -      
     speakers:

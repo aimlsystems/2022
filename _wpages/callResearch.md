@@ -12,6 +12,10 @@ menutitle: Call for Research Papers
   <div class="blink-text"><marquee behavior="scroll" direction="left">Important Announcement: Given multiple requests for a deadline extension, we have decided to extend the paper submission deadline for AIMLSystems 2022 to July 12, 2022, 11:59 pm AOE. Please note that this is a firm deadline.</marquee></div>
 </div>--> 
 
+<div class="callout callout-primary me-4">
+<a href="{{ site.baseurl }}/docs/{{ site.cfp_pdf }}?{{ site.time | date: "%s" }}" download="AIMLSystems - Call for Papers.pdf"><i class="bi bi-download" style="margin-right: 10px;"></i>  Download PDF version of the Call For Papers</a>
+</div>
+
 ### Call for Research Papers
 
 {:.text-justify.pe-4}
@@ -24,10 +28,6 @@ communications ), how the use of AI/ML can help in the continuous and workload-d
 of computational systems (e.g., self-tuning databases, learning compiler optimisers, and learnable 
 network systems ), and the use of AI/ML in the design of socio-economic systems such as public healthcare, and security. 
 The goal is to bring together these diverse communities and elicit connections between them.
-
-<div class="callout callout-primary me-4">
-<a href="{{ site.baseurl }}/docs/{{ site.cfp_pdf }}?{{ site.time | date: "%s" }}" download="AIMLSystems - Call for Papers.pdf"><i class="bi bi-download" style="margin-right: 10px;"></i>  Download PDF version of the Call For Papers</a>
-</div>
 
 #### Topics of Interest
 
@@ -82,7 +82,7 @@ The areas of interest are broadly categorized into the following three streams:
 * ~~Submission deadline: July 5, 2022~~
 * ~~Submission deadline: July 12, 2022, 11:59 pm AOE.  (Firm Deadline)~~
 <!-- * Author notifications:  August 30, 2022 -->
-* Author notifications:  September 5, 2022
+* ~~Author notifications:  September 5, 2022~~
 <!-- * Camera ready deadline: September 12, 2022 -->
 * Camera ready deadline: September 19, 2022
 * Conference dates: October 12-15, 2022

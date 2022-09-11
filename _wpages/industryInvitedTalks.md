@@ -1,6 +1,6 @@
 ---
 layout: other
-title: Industry Invited Talks
+title: Industry Invited Speakers
 ---
 
 {% assign panel = site.data.indusLiason.panel %}

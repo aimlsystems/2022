@@ -57,7 +57,7 @@ menutitle: Doctoral Symposium Speakers and Panelists
         {% for d in detail['abstract'] %}
         <div class="text-justify">
             {% if forloop.first %}
-            <b>Abstract:</b> 
+            <b>Abstract:</b><br/> 
             {% else %}
                 &nbsp;&nbsp;&nbsp;&nbsp;
             {% endif %}
@@ -65,17 +65,17 @@ menutitle: Doctoral Symposium Speakers and Panelists
         </div>
         {% endfor %}
         {% endif %}
+        <br/>
         {% for speaker in talk.speakers %}
         {% assign mem = speaker %}
         {% if site.data.bio[mem] %}
         {% for b in site.data.bio[mem] %}
         <div class="text-justify">
             {% if forloop.first %}
-            <b>Bio
+             <b>Bio:</b><br/> 
                 {% if talk.speakers.size > 1 %}
                 ({{ mem }})
                 {% endif %}
-            :</b>
             {% else %}
                 &nbsp;&nbsp;&nbsp;&nbsp;
             {% endif %}

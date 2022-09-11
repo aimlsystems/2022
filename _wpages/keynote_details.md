@@ -1,6 +1,6 @@
 ---
 layout: other
-title: Keynotes Speeches
+title: Keynotes Speakers
 ---
 
 {% for cat in site.data.keynote_speakers %}

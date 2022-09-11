@@ -44,7 +44,7 @@ Topics of interest include AI/ML systems machine learning applications in all ma
 * ~~Submission deadline: July 5, 2022~~
 * ~~Submission deadline: July 12, 2022, 11:59 pm AOE.  (Firm Deadline)~~
 <!-- * Author notifications: August 30, 2022 -->
-* Author notifications: September 9, 2022
+* ~~Author notifications: September 9, 2022~~
 * Camera ready deadline: September 19, 2022
 * Conference Dates:  October 12-15, 2022
 
@@ -54,9 +54,9 @@ The submissions will be through [https://cmt3.research.microsoft.com/AIMLSystems
 
 Please select the “Industry and Applications” track on CMT.
 
-{:#PC}
+<!-- {:#PC}
 **Program Committee**
-* To be updated soon
+* To be updated soon -->
 
 #### Industry Track Chairs:
 

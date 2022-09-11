@@ -133,7 +133,7 @@ title: Schedule
 
 <!-- Tab links -->
 <div class="tab">
-  <a href="{{ site.baseurl }}/schedule-1page" class="btn btn-grey">Single Page</a> <!-- <a href="{{ site.baseurl }}/technicalProgram" class="btn btn-grey">Technical Program</a> -->
+  <a href="{{ site.baseurl }}/schedule-1page" class="btn btn-grey">Single Page</a> <a href="{{ site.baseurl }}/technicalProgram" class="btn btn-grey">Technical Program</a>
 </div>
 
 <br><br>

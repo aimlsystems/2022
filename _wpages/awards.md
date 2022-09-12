@@ -3,7 +3,7 @@ layout: other
 title: Awards
 menutitle: Awards
 ---
-<center> To be updated soon. </center>
+<h2><center><p> Awards will be announded after the event.</p></center></h2>
 
 [//]: #### Four awards will be given in 2021 in the categories of:
 [//]: * Best Paper Awards (2)

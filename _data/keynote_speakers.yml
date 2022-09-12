@@ -7,15 +7,52 @@ Research:
     abstract:
       -
         - To be updated
+
   -
     speakers:
-      - Thorsten Joachims
-    title: "Beyond Engagement: Optimizing the Long-Term Sustainability of Online Platforms"
+      - Cynthia Rudin
+    title:  "Do Simpler Machine Learning Models Exist and How Can We Find Them?"
     video: Not availabe right now
     abstract:
       -
-        - To be updated
-  
+        - "While the trend in machine learning has tended towards building more complicated (black box) models, such models are not as useful for high stakes decisions - black box models have led to mistakes in bail and parole decisions in criminal justice, flawed models in healthcare, and inexplicable loan decisions in finance. Simpler, interpretable models would be better."
+        - "Thus, we consider questions that diametrically oppose the trend in the field: for which types of datasets would we expect to get simpler models at the same level of accuracy as black box models? If such simpler-yet-accurate models exist, how can we use optimization to find these simpler models? In this talk, I present an easy calculation to check for the possibility of a simpler (yet accurate) model before computing one."
+        - "This calculation indicates that simpler-but-accurate models do exist in practice more often than you might think. Also, some types of these simple models are (surprisingly) small enough that they can be memorized or printed on an index card."
+
+  -      
+    speakers:
+      - Max Welling
+    title: "The PDE Prior for Deep Learning"
+    video: Not availabe right now
+    abstract:
+      -
+        - "There is an interesting new field developing at the intersection of the physical sciences and deep learning, sometimes called AI4Science." 
+        - " In one direction, tools developed in the AI community are used to solve problems in science, such as protein folding, molecular simulation, and so on."
+        - " But also in the other direction, deep insights from mathematics and physics are inspiring new DL architectures, such as Neural ODE solvers, and equivariance."
+        - " In this talk I will start with mapping out some of the opportunities at this intersection and subsequently dive a little deeper into PDE solving."
+        - " Also, in this subfield, cross fertilization has already happened both ways: people have used DL tools to successfully solve PDE equations much faster than with traditional solvers. "
+        - " But reversely, there are also efforts to use PDEs as \"infinite width\", functional representations of layers in a deep NN architecture. "
+        - " The latter is helpful for instance to become independent of gridding choices. In the second half of this talk I will explain our most recent efforts to solve PDEs faster and more accurately using DL, and reversely, new ways to use PDEs as an approximate equivariance prior."   
+
+  -
+    speakers:
+       - Nikko Strom
+    title: "Edge computing in Alexa"
+    video: Not availabe right now
+    abstract:
+      -
+        - To be updated        
+
+  -
+    speakers:
+      - Partha Pratim Talukdar
+    title: "Scaling Natural Language Processing for the Next Billion Users"
+    video: Not availabe right now
+    abstract:
+      -
+        - Even though there are more than 7000 languages in the world, language technologies are available only for a handful of these languages. Lack of training data poses a significant challenge in developing language technologies for these languages. Recent advances in Multilingual Representation Learning presents an opportunity to transfer knowledge and supervision from high web-resource languages to languages with lower web-resources.  
+        - In this talk, I shall present an overview of research in this exciting and emerging area in the NLU group at Google Research India.
+
   -
     speakers:
       - Sunita Sarawagi
@@ -30,41 +67,14 @@ Research:
 
   -
     speakers:
-      - Partha Pratim Talukdar
-    title: "Scaling Natural Language Processing for the Next Billion Users"
-    video: Not availabe right now
-    abstract:
-      -
-        - Even though there are more than 7000 languages in the world, language technologies are available only for a handful of these languages. Lack of training data poses a significant challenge in developing language technologies for these languages. Recent advances in Multilingual Representation Learning presents an opportunity to transfer knowledge and supervision from high web-resource languages to languages with lower web-resources.  
-        - In this talk, I shall present an overview of research in this exciting and emerging area in the NLU group at Google Research India.
-
-  -
-    speakers:
-      - Cynthia Rudin
-    title:  "Do Simpler Machine Learning Models Exist and How Can We Find Them?"
-    video: Not availabe right now
-    abstract:
-      -
-        - "While the trend in machine learning has tended towards building more complicated (black box) models, such models are not as useful for high stakes decisions - black box models have led to mistakes in bail and parole decisions in criminal justice, flawed models in healthcare, and inexplicable loan decisions in finance. Simpler, interpretable models would be better."
-        - "Thus, we consider questions that diametrically oppose the trend in the field: for which types of datasets would we expect to get simpler models at the same level of accuracy as black box models? If such simpler-yet-accurate models exist, how can we use optimization to find these simpler models? In this talk, I present an easy calculation to check for the possibility of a simpler (yet accurate) model before computing one."
-        -  This calculation indicates that simpler-but-accurate models do exist in practice more often than you might think. Also, some types of these simple models are (surprisingly) small enough that they can be memorized or printed on an index card.  
-  -      
-    speakers:
-      - Max Welling
-    title: "The PDE Prior for Deep Learning"
+      - Thorsten Joachims
+    title: "Beyond Engagement: Optimizing the Long-Term Sustainability of Online Platforms"
     video: Not availabe right now
     abstract:
       -
         - To be updated
+  
 
-  -
-    speakers:
-       - Nikko Strom
-    title: "Edge computing in Alexa"
-    video: Not availabe right now
-    abstract:
-      -
-        - To be updated        
 
   
 #Industry Insights:

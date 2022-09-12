@@ -2,7 +2,7 @@
 layout: other
 title: Volunteers
 ---
-<h2><center> <p>To be updated soon </p></center></h2>
+<h2><center> <p>Page to be updated soon!</p></center></h2>
 <div class="row"> 
 </div>
 {% assign speakers = "" | split: ", " %}

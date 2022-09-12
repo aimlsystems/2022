@@ -2,13 +2,13 @@
 layout: other
 title: Volunteers
 ---
-<h2><center> <p>Page to be updated soon!</p></center></h2>
-<div class="row"> 
-</div>
-{% assign speakers = "" | split: ", " %}
+
+{% assign speakers = "Manav Bansal, Sourav Bansal, Vishnutha Sheela" | split: ", " %}
 <div class="row">
 {% for speaker in speakers %}
 {% assign mem = speaker %}
+
+
 <div class="col-6 col-12-medium">
     <div class="row">
         <div class="col-3">

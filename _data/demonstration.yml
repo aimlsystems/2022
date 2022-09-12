@@ -1,0 +1,49 @@
+Speakers:
+  -
+    speakers:
+      - Amit Mate
+    title: "Connected Intelligence"
+    # video: Not availabe right now
+    abstract:
+      -
+        - AI, 5G and Edge compute are three mega trends that are converging to create a new class of applications - "connected intelligent applications" that are characterized by application autonomy, hierarchical intelligence and a server-less architecture. We are demonstrating a few consumer applications that leverage on-device, on-premise and server-less implementations of tensorflow models.
+  -
+    speakers:
+      - Shirsha Ray Chaudhuri (Thomson Reuters); 
+      - Prudhvi Nokku (Thomson Reuters)
+    title: "vaAnI - an AI-powered voice-enabled search engine for the visually-challenged community"
+    # video: Not availabe right now
+    
+    abstract:
+      -
+        - EnAble India is a NGO that provides a platform for People with Disabilities to come together and resolve their challenges. It provides many learning facilities, self-help channels, employment training and social navigation aids for People with Disabilities. Enable Vaani is one such platform that this NGO setup, using which the blind population from more than 15 states in our country are able to call in for their asks and get responses. This is a voice-enabled question answer, information retrieval, crowd-sourced recommendation system for the blind. This recommendation system is today executed manually. By this we mean, that mediators work on queries received and match them to a best possible response received in the past. This workflow demands automation with the use of AI. This solution demo shall showcase a solution provided for this platform, where AI-powered services in the cloud are leveraged to provide automation into this workflow, for this platform. Mediators receive auto-suggestions from the system for a given audio query and can select the best-fitting one. Past audio responses and possible suggestions are stored translated, indexed and parsed, so that they may be used for responding against a given query. It is a voice-enabled search and recommendation engine for the visually challenged for their resources.
+
+  -
+    speakers:
+      - Ruju N Alurkar
+    title: " MLOps at FIAI"
+    # video: Not availabe right now
+    abstract:
+     -
+       -  Artificial Intelligence/Machine Learning is facing many hurdles in its journey towards becoming a daily occurrence in our lives. One of the biggest challenges is handling large multi-process, multi-component and multi-algorithm Processing Pipelines in Machine Learning/Ai - and doing so without everything falling apart! It is very easy to build a single Machine Learning or Deep Learning model. The real challenge is to build multiple such models that work together, work in a coordinated manner, and in the end, produce usable, coherent results - that is what will be "True Ai". The FlAi MLOps Suite is an end-to-end Drag-and-Drop SaaS platform that enables users to create their own Machine Learning pipelines running on Kubernetes. FlAi allows for high-level container-customisation while completely automating the code needed to provision the Infrastructure of the Machine Learning/Ai Pipeline - keeping the user (the Data Scientist) in full control of his/her own Data Science code. The Drag-and-Drop functionality, inherent containerisation, rapid object-level (block and pipeline level) replication, collaborative development all gear up the user towards massive, yet manageable Ai/ML pipelines. Inherent benefits of using Kubernetes under-the-hood include multi fold increase in processing speed, failure-redundancy and container-level replication for components of the Pipeline. It is due to FlAi's abstraction layer, that even a Data Scientist can easily understand, and exploit the power of Kubernetes without having to necessarily endure the pain of configuring and working it out themselves.
+  -
+
+Panelist:
+  -
+    speakers:
+      - Chiranjib Bhattacharyya
+    title: " " 
+    # video: Not availabe right now
+    # abstract:
+    #   -
+    #     - To be updated
+  -
+    speakers:
+      - Suparna Bhattacharya
+    title:  " "
+    # video: Not availabe right now
+    # abstract:
+    #   -
+    #     - To be updated
+
+  

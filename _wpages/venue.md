@@ -11,11 +11,7 @@ menutitle: Venue
 
 For more details, [click here](https://chanceryhotels.com/pavilion/){:target="_blank"}.
 
-&nbsp;
-
-&nbsp;
-
-#### .
+#### Location
 
 135, Residency Road \
 Bangalore City Center \

@@ -1,6 +1,6 @@
 ---
 layout: other
-title: Demo
+title: Demonstrations
 ---
 
 <h2><center><p>To be announced soon!</p></center></h2>

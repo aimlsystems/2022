@@ -41,7 +41,7 @@ Research:
     video: Not availabe right now
     abstract:
       -
-        - To be updated        
+        - In the evolution of computing, we went from mainframes and minicomputers, to personal computers, the cloud, mobile devices, the internet of things, and smart ambient devices like the Amazon Echo. Along the way, new and old workloads are continuously rebalanced between the central server, the cloud, user terminals, and edge devices. Currently, while many workloads are being migrated to the cloud, tasks that require fast responsiveness are increasingly being performed on edge devices, including machine learning tasks such as speech recognition and computer vision. In this talk, I will discuss how Amazon Devices are developing hardware and software solutions that enable on-device processing (or enable workloads to be processed on device) and support new features that are only possible with edge computing.        
 
   -
     speakers:

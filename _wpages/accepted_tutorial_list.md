@@ -8,10 +8,12 @@ menutitle: Tutorials
 
 <!-- #  Accepted/Invited Tutorials List -->
 
-### **<span style="background-color: #82EEF9">1. Large-Scale Information Extraction under Privacy-Aware Constraints</span>**   
+# Tutorial 1
+### **<span style="background-color: #82EEF9">Large-Scale Information Extraction under Privacy-Aware Constraints</span>**   
 &nbsp;  
 #### **Speakers:**  
-Rajeev Gupta (Microsoft India); Ranganath Kondapally (Microsoft,India)  
+* Rajeev Gupta, Microsoft, India
+* Ranganath Kondapally, Microsoft, India  
 &nbsp;
 
 #### **Abstract:**  
@@ -20,10 +22,17 @@ In this digital age, people spend a significant portion of their lives online an
 
 <div markdown=1 class="bd-callout bd-callout-info">
 
-### **<span style="background-color: #82EEF9">2. Advances in exploratory data analysis, visualisation and quality for data centric AI systems</span>**  
+# Tutorial 2
+
+### **<span style="background-color: #82EEF9">Advances in exploratory data analysis, visualisation and quality for data centric AI systems</span>**  
 &nbsp; 
 #### **Speakers:**  
-Hima Patel (IBM Research); Shanmukh Guttula (IBM Research); Ruhi Sharma Mittal (IBM Research); Naresh Manwani (International Institute of Information Technology, Hyderabad); Laure Berti-Equille (IRD); Abhijit Manatkar (IIITH)  
+* Hima Patel, IBM Research
+* Shanmukh Guttula, IBM Research
+* Ruhi Sharma Mittal, IBM Research
+* Naresh Manwani, IIIT Hyderabad, India
+* Laure Berti-Equille, IRD
+* Abhijit Manatkar, IIIT Hyderabad, India  
 &nbsp;
 
 #### **Abstract:**  
@@ -32,10 +41,15 @@ It is widely accepted that data preparation is one of the most time consuming st
 
 <div markdown=1 class="bd-callout bd-callout-info">
 
-### **<span style="background-color: #82EEF9">3. Knowledge In - Wisdom Out - Explainable Data for AI in Cyber Social Threats and Public Health</span>**  
+# Tutorial 3
+
+### **<span style="background-color: #82EEF9">Knowledge In - Wisdom Out - Explainable Data for AI in Cyber Social Threats and Public Health</span>**  
 &nbsp;  
 #### **Speakers:**  
-Amit Sheth (University of South Carolina), Kaushik Roy (University of South Carolina), Manas Gaur (University of Maryland Baltimore County), Usha Lokala (University of South Carolina)  
+* Amit Sheth, University of South Carolina
+* Kaushik Roy, University of South Carolina
+* Manas Gaur, University of Maryland Baltimore County
+* Usha Lokala, University of South Carolina  
 &nbsp;
 
 #### **Abstract:**  
@@ -45,10 +59,13 @@ In today's data-driven world, organizations derive insights from massive amounts
 
 <div markdown=1 class="bd-callout bd-callout-info">
 
-### **<span style="background-color: #82EEF9">4. Malware Analysis and Detection</span>**  
+# Tutorial 4
+
+### **<span style="background-color: #82EEF9">Malware Analysis and Detection</span>**  
 &nbsp;  
 #### **Speakers:**  
-Hemant Rathore (BITS Pilani Goa Campus); Mohit Sewak (Microsoft)  
+* Hemant Rathore, BITS Pilani Goa Campus, India
+* Mohit Sewak, Microsoft  
 &nbsp;
 
 #### **Abstract:**  
@@ -57,10 +74,15 @@ Often computer/mobile users call everything that disturbs/corrupts their system 
 
 <div markdown=1 class="bd-callout bd-callout-info">
 
-### **<span style="background-color: #82EEF9">5. Identification of causal dependencies in multivariate time series</span>**
+# Tutorial 5
+
+### **<span style="background-color: #82EEF9">Identification of causal dependencies in multivariate time series</span>**
 &nbsp;  
 #### **Speakers:**  
-Sujoy Roy Chowdhury (Ericsson); Serene Banerjee (Ericsson); Ranjani H.G (Ericsson); Chaitanya Kapoor (Ericsson)  
+* Sujoy Roy Chowdhury, Ericsson
+* Serene Banerjee, Ericsson
+* Ranjani H.G, Ericsson
+* Chaitanya Kapoor, Ericsson  
 &nbsp;
 
 #### **Abstract:**  
@@ -69,10 +91,15 @@ Telecommunications networks operate on enormous amount of time-series data, and 
 
 <div markdown=1 class="bd-callout bd-callout-info">
 
-### **<span style="background-color: #82EEF9">6. TinyML Techniques for running Machine Learning models on Edge Devices</span>**
+# Tutorial 6
+
+### **<span style="background-color: #82EEF9">TinyML Techniques for running Machine Learning models on Edge Devices</span>**
 &nbsp;  
 #### **Speakers:**  
-Arijit Mukherjee (TCS Research); Arijit Ukil(Tata Consultancy Services); Swarnava Dey (TCS Research); Gitesh Kulkarni (TATA Consultancy Services)  
+* Arijit Mukherjee, TCS Research
+* Arijit Ukil, Tata Consultancy Services
+* Swarnava Dey, TCS Research
+* Gitesh Kulkarni, TATA Consultancy Services  
 &nbsp;
 
 #### **Abstract:**  

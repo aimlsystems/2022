@@ -26,11 +26,11 @@ Speakers:
   -
     speakers:
       - Vineet Chaoji
-    title: Talk details to be updated
+    title: "ML at Amazon: Learnings for Prospective Applied Scientists"
     # video: Not availabe right now
-    # abstract:
-    #   -
-    #     - To be updated
+    abstract:
+     -
+       - Amazon has an ML team in India that focuses on driving broad ML based initiatives, developing models for these initiatives and owning ML systems that power these models. As part of this team, we have developed and deployed a wide variety of models covering areas such as ranking, forecasting, advertising, and conversations AI. In this talk, I will focus on a few business problems and associated ML challenges that we have been working on for the past few years. The talk will use these problems as cues to bring out learnings that could guide fresh graduate students towards a career in an applied science lab within the industry.
   -
 
 Panelist:

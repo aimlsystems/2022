@@ -54,6 +54,7 @@ title: Industry Invited Speakers
 {% elsif forloop.rindex==2 and md-modulo==2 %}
 {% assign md-offset = "2" %}
 {% endif %}
+
 <div class="col-6 col-12-medium">
     <div class="row">
         <div class="col-3">
@@ -83,7 +84,7 @@ title: Industry Invited Speakers
 {% assign md-modulo = speakers.size | modulo: 3 %}
 
 {% for speaker in speakers %}
-
+{% assign catId = forloop.index %}
 {% assign mem = speaker[0] %}
 {% assign detail = speaker[1] %}
 
@@ -103,7 +104,10 @@ title: Industry Invited Speakers
 {% continue %}
 {% endif %}
 
-<a id="keynote_{{ forloop.index }}_{{ catId }}"></a>
+
+
+
+<a id="industryinvited_{{ forloop.index }}_{{ catId }}"></a>
 <div class="row">
     <div class="col-3 col-12-medium">
         <div class="row text-center">
@@ -121,7 +125,6 @@ title: Industry Invited Speakers
     <div class="col-9 col-12-medium">
         <h4>{{ detail['title'] }}</h4>
         {% if detail['abstract'] %}
-
         {% for d in detail['abstract'] %}
         <div class="text-justify">
             {% if forloop.first %}
@@ -133,7 +136,6 @@ title: Industry Invited Speakers
         </div>
         {% endfor %}
         {% endif %}
-
         {% if site.data.bio[mem] %}
         {% for b in site.data.bio[mem] %}
         <div class="text-justify">
@@ -150,6 +152,5 @@ title: Industry Invited Speakers
 </div>
 <br>
 <br>
-
 
 {% endfor %}

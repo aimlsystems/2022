@@ -3,7 +3,7 @@ layout: other
 title: Volunteers
 ---
 
-{% assign speakers = "Manav Bansal, Shounak Shirodkar, Sourav Bansal, Vishnutha Sheela, Vivek Tangudu, V L Sahithi" | split: ", " %}
+{% assign speakers = "Manav Bansal, Rakshit P, Shounak Shirodkar, Sourav Bansal, Vishnutha Sheela, Vivek Tangudu, V L Sahithi" | split: ", " %}
 <div class="row">
 {% for speaker in speakers %}
 {% assign mem = speaker %}

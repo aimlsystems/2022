@@ -2,7 +2,7 @@
 layout: landing
 title: Home
 ---
-<section id="main" style = "height: 100%; padding-bottom: 20px; padding-top: 3px ;background-color: #272d3a; ">
+<section id="notice" style = "height: 100%; padding-bottom: 20px; padding-top: 3px ;background-color: #272d3a; ">
 	<!-- <div class="title">Important Dates</div> -->
 	<div class=" container bd-callout bd-callout-info text-attention" style="width:100%; background-color: lightgrey;  font-size: 20px">
 	<div class="blink-text"><marquee behavior="scroll" direction="left" > AIMLSystems 2022 paper decisions are out!. Check out AIMLSystems'22 High Level Schedule. Tutorials topics are available now. <a href="{{ site.baseurl }}/accepted_tutorial_list">Check Now</a>. Cash Award: Rs. 10,000 only for the best Doctoral Symposium entry. </marquee></div>
@@ -58,7 +58,7 @@ title: Home
 <!-- {{ cat  }} -->
 {% assign talks = cat[1] %}
 <!--<h2 class="nt-header">{{ cat[0] }} Keynotes </h2>-->
-<div class=row>
+<div class=row >
 
 {% for talk in talks %}
 
@@ -68,7 +68,7 @@ title: Home
 {% assign mem = speaker %}
 {% assign detail = talk %}
 
-<div class="col-6 col-12-medium">
+<div class="col-6 col-12-medium" >
 	<div class="row">
 		<div class="col-3">
 			<img class="img-fuild" style="max-width: 120px; max-height: auto;" src="{{ site.baseurl }}/images/peoples/{{ site.data.peoples[mem][3] | default: "avtar.png" }}?{{ site.time | date: "%s" }}">
@@ -157,7 +157,7 @@ title: Home
 		</section>
 
 		<!-- Logistics -->
-		<section id="highlights" class="wrapper style3">
+		<!-- <section id="highlights" class="wrapper style3">
 			<div class="title">Logistics</div>
 			<div class="container">
 				<div class="row aln-center">
@@ -177,7 +177,7 @@ title: Home
 
 					<div class="col-4 col-12-medium">
 						<section class="highlight">
-							<!-- <a href="#" class="image featured"><img src="images/cfp_img.jpg" alt=""></a> -->
+							<!-- <a href="#" class="image featured"><img src="images/cfp_img.jpg" alt=""></a> 
 							<h3><a href="#">Call for Papers</a></h3>
 							<p>The goal of the conference is to create a world-class forum for discussing cutting edge research, and directions for new innovative business and technology.</p>
 							<ul class="actions">
@@ -188,17 +188,17 @@ title: Home
 
 					<div class="col-4 col-12-medium">
 						<section class="highlight">
-							<!-- <a href="#" class="image featured"><img src="images/cfp_img.jpg" alt=""></a> -->
+							<!-- <a href="#" class="image featured"><img src="images/cfp_img.jpg" alt=""></a> 
 							<h3><a href="awards.html">Awards</a></h3>
 							<p>To be updated soon</p>
 							<!--<p>The conference will give four Prof. Ram Kumar 'Best of AIML Systems' awards:
 								One to an outstanding paper advancing basic theory and algorithms,
 								one to an outstanding example of application-oriented research, another to
-							the best demo, and one to the best work reported in the doctoral symposium.</p>-->
+							the best demo, and one to the best work reported in the doctoral symposium.</p>
 						</section>
 					</div>
 
-				</div>
+				</div> -->
 				<br>
 				<!-- <center>
 					<div class="bd-callout bd-callout-info blink-text" style="width:100%; background-color: lightgrey; padding: 0px;">
@@ -207,14 +207,14 @@ title: Home
 				</div></center> -->
 				<!-- <div class="blink-bg"><marquee behavior="scroll" direction="left" height = "20%"><p style="color:white;" style="padding: 0px; font-family: 'Font Awesome 5 Free';font-weight: 900;"><font size="5">Given multiple requests for a deadline extension, we have decided to extend the paper submission deadline for AIMLSystems 2022 to July 12, 2022, 11:59 pm AET. Please note that this is a firm deadline.</marquee></p></div> -->
 				<!-- <div class="bd-callout bd-callout-info blink-text" style="width:100%; background-color: lightgrey; padding: 0px;">
-				<div class="blink-text"><marquee behavior="scroll" direction="left" height = "auto" vspace = "20">Given multiple requests for a deadline extension, we have decided to extend the paper submission deadline for AIMLSystems 2022 to July 12, 2022, 11:59 pm AET. Please note that this is a firm deadline.</marquee></div></div> -->
+				<div class="blink-text"><marquee behavior="scroll" direction="left" height = "auto" vspace = "20">Given multiple requests for a deadline extension, we have decided to extend the paper submission deadline for AIMLSystems 2022 to July 12, 2022, 11:59 pm AET. Please note that this is a firm deadline.</marquee></div></div> 
 			</div>
-		</section>
+		</section>-->
 
 
 
 <!-- People-->
-		<section id="highlights" class="wrapper style2">
+<!-- 		<section id="highlights" class="wrapper style2">
 			<div class="title">People</div>
 			<div class="container">
 				<div class="row aln-center">
@@ -244,7 +244,7 @@ title: Home
 					</div>
 				</div>
 			</div>
-		</section>
+		</section> -->
 
 
 <script>

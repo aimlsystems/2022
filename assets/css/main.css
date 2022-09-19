@@ -1751,8 +1751,9 @@ input, select, textarea {
 		input[type="reset"].style3,
 		button.style3,
 		.button.style3 {
-			background: #2f333b url("images/overlay.png");
+			/*background: #2f333b url("images/overlay.png");*/
 			color: #fff;
+			background: #1e90FF;
 		}
 
 			input[type="button"].style3:hover,

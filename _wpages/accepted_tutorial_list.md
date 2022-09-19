@@ -9,7 +9,7 @@ menutitle: Tutorials
 <!-- #  Accepted/Invited Tutorials List -->
 
 # Tutorial 1
-### **<span style="background-color: #82EEF9">Large-Scale Information Extraction under Privacy-Aware Constraints</span>**   
+### **<span style="background-color: #82EEF9">Large-Scale Entity Extraction from Enterprise Data</span>**   
 &nbsp;  
 #### **Speakers:**  
 * Rajeev Gupta, Microsoft, India
@@ -17,7 +17,7 @@ menutitle: Tutorials
 &nbsp;
 
 #### **Abstract:**  
-In this digital age, people spend a significant portion of their lives online and this has led to an explosion of personal data from users and their activities. Typically, this data is private and nobody else, except the user, is allowed to look at it. This poses interesting and complex challenges from scalable information extraction point of view: extracting information under privacy aware constraints where there is little data to learn from but need highly accurate models to run on large amount of data across different users. Anonymization of data is typically used to convert private data into publicly accessible data. But this may not always be feasible and may require complex differential privacy guarantees in order to be safe from any potential negative consequences. Other techniques involve building models on a small amount of seen (eyes-on) data and a large amount of unseen (eyes-off) data. In this tutorial, we use emails as representative private data to explain the concepts of scalable IE under privacy-aware constraints
+Adoption of cloud computing by enterprises has exploded in the last decade and most of the applications used by enterprise users have moved to the cloud. These applications include collaboration software(e.g., Word, Excel), instant messaging (e.g., Chat), asynchronous communication (e.g., Email), etc. This has resulted in an exponential increase in the volume of data arising from the interactions of the users with the online applications (such as documents edited, people interacted with, meetings attended, etc.). Activities of a user provide strong insights about her such as meetings attended by the user indicate the set of people the user closely works with and documents edited indicate the topics the user works on, etc. Typically, this data is private and confidential for the enterprise, part of the enterprise, or the individual employee. To provide better experience and assist employees in their activities, it is critical to mine certain entities from this data. In this tutorial, we explain various entities which can be extracted from the enterprise data and assist the employees in their productivity.
 </div>
 
 <div markdown=1 class="bd-callout bd-callout-info">

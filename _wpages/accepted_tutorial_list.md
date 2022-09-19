@@ -97,9 +97,9 @@ Telecommunications networks operate on enormous amount of time-series data, and 
 &nbsp;  
 #### **Speakers:**  
 * Arijit Mukherjee, TCS Research
-* Arijit Ukil, Tata Consultancy Services
+* Arijit Ukil, TCS Research
 * Swarnava Dey, TCS Research
-* Gitesh Kulkarni, TATA Consultancy Services  
+* Gitesh Kulkarni, TCS Research  
 &nbsp;
 
 #### **Abstract:**  

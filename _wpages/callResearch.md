@@ -84,7 +84,7 @@ The areas of interest are broadly categorized into the following three streams:
 <!-- * Author notifications:  August 30, 2022 -->
 * ~~Author notifications:  September 5, 2022~~
 <!-- * Camera ready deadline: September 12, 2022 -->
-* Camera ready deadline: September 19, 2022
+* Camera ready deadline: ~~September 19, 2022~~ **<span style="background-color: #FFFF00">September 23, 2022, 11:59 PM AOE. [Extended Deadline]</span>**
 * Conference dates: October 12-15, 2022
 
 #### Important URLs

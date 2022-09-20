@@ -134,13 +134,14 @@ title: Industry Invited Speakers
             {% endif %}
             {{ d }}
         </div>
+        <br/>
         {% endfor %}
         {% endif %}
         {% if site.data.bio[mem] %}
         {% for b in site.data.bio[mem] %}
         <div class="text-justify">
             {% if forloop.first %}
-            <b>Bio:</b> 
+            <b>Bio:</b> <br/>
             {% else %}
                 &nbsp;&nbsp;&nbsp;&nbsp;
             {% endif %}

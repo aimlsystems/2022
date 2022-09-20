@@ -60,7 +60,7 @@ title: Panel
 {% elsif forloop.rindex==2 and md-modulo==2 %}
 {% assign md-offset = "2" %}
 {% endif %}
-<div class="off-3 off-0-medium col-6 col-12-medium">
+<div class="col-6 col-12-medium">
     <div class="row">
         <div class="col-3">
             <img class="img-fuild" style="max-width: 120px; max-height: auto;" src="{{ site.baseurl }}/images/peoples/{{ site.data.peoples[mem][3] | default: "avtar.png" }}?{{ site.time | date: "%s" }}"> 

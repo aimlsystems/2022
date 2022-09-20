@@ -28,7 +28,7 @@ menutitle: Research Track <br/>Papers/Posters
 </div>
 <div markdown=1 class="bd-callout bd-callout-info">
 
-### **4. A Hybrid Planning System for Smart Charging of Electric Fleets**
+### **4. A Hybrid Planning System for Smart Charging of Electric Fleets <span style="background-color: #82EEF9">[Paper ID: 18]</span>**
 
 **<span style="background-color: #FFFF00">Authors:</span>** Kshitij Garg (TCS Research); Ajay Narayanan (TCS Research); Prasant Misra (TCS Research)\*; Arunchandar  Vasan  (TCS Research); Vivek Bandhu (TCS); Debarupa Das (TCS)
 </div>
@@ -41,7 +41,7 @@ menutitle: Research Track <br/>Papers/Posters
 
 <div markdown=1 class="bd-callout bd-callout-info">
 
-### **6. Efficient Graph based Recommender System with Weighted Averaging of Messages**
+### **6. Efficient Graph based Recommender System with Weighted Averaging of Messages <span style="background-color: #82EEF9">[Paper ID: 31]</span>**
 
 **<span style="background-color: #FFFF00">Authors:</span>** Faizan Ahemad (Amazon India)\*
 </div>
@@ -61,14 +61,14 @@ menutitle: Research Track <br/>Papers/Posters
 
 <div markdown=1 class="bd-callout bd-callout-info">
 
-### **9. Ensembling Deep Learning And CIELAB Color Space Model for Fire Detection from UAV images**
+### **9. Ensembling Deep Learning And CIELAB Color Space Model for Fire Detection from UAV images <span style="background-color: #82EEF9">[Paper ID: 45]</span>**
 
 **<span style="background-color: #FFFF00">Authors:</span>** Yash Jain (Indian Institute of Technology Roorkee)\*; Vishu Saxena (Indian Institute of Technology Roorkee); Sparsh Mittal (IIT Roorkee)
 </div>
 
 <div markdown=1 class="bd-callout bd-callout-info">
 
-### **10. DEC-aided SM-OFDM: A Spatial Modulation System with Deep Learning based Error Correction**
+### **10. DEC-aided SM-OFDM: A Spatial Modulation System with Deep Learning based Error Correction <span style="background-color: #82EEF9">[Paper ID: 49]</span>**
 
 **<span style="background-color: #FFFF00">Authors:</span>** Harsh Verma (IIIT Delhi)\*; Vivek Bohara (IIIT Delhi); Anubha Gupta (Indraprastha Institute of Information Technology-Delhi (IIITD))
 </div>
@@ -82,28 +82,28 @@ menutitle: Research Track <br/>Papers/Posters
 
 <div markdown=1 class="bd-callout bd-callout-info">
 
-### **12. Acceleration-aware, Retraining-free Evolutionary Pruning for Automated Fitment of Deep Learning Models on Edge Devices**
+### **12. Acceleration-aware, Retraining-free Evolutionary Pruning for Automated Fitment of Deep Learning Models on Edge Devices <span style="background-color: #82EEF9">[Paper ID: 53]</span>**
 
 **<span style="background-color: #FFFF00">Authors:</span>** Jeet Dutta (TCS Research); Arijit Mukherjee (TCS Research)\*; Swarnava Dey (TCS Research, Tata Consultancy Services Ltd.); Arpan Pal (Tata Consultancy Services)
 </div>
 
 <div markdown=1 class="bd-callout bd-callout-info">
 
-### **13. Hetero-Rec: Optimal Deployment of Embeddings for High-Speed Recommendations**
+### **13. Hetero-Rec: Optimal Deployment of Embeddings for High-Speed Recommendations <span style="background-color: #82EEF9">[Paper ID: 55]</span>**
 
 **<span style="background-color: #FFFF00">Authors:</span>** Chinmay N Mahajan (TCS); Ashwin Krishnan (TCS Research)\*; Manoj Nambiar (TCS); Rekha Singhal (TCS)
 </div>
 
 <div markdown=1 class="bd-callout bd-callout-info">
 
-### **14. System Design for an Integrated Lifelong Reinforcement Learning Agent For Real-Time Strategy Games**
+### **14. System Design for an Integrated Lifelong Reinforcement Learning Agent For Real-Time Strategy Games <span style="background-color: #82EEF9">[Paper ID: 64]</span>**
 
 **<span style="background-color: #FFFF00">Authors:</span>** Indranil Sur (SRI International )\*; Zachary A Daniels (SRI International); Aswin Raghavan (SRI International); Jesse Hostetler (SRI International); Abrar Rahman (SRI International); Michael R Piacentino (SRI International); Ajay Divakaran (SRI, USA); Roberto Corizzo (American University); Kamil Faber (AGH University of Science and Technology); Nathalie Japkowicz (American University); Michael Baron (); James S Smith (Georgia Institute of Technology); Sahana Joshi (Georgia Tech); Zsolt Kira (Georgia Institute of Technology); Tyler L Hayes (RIT); Christopher Kanan (University of Rochester); Gianmarco J Gallardo (ROCHESTER INSTITUTE OF TECHNOLOGY)
 </div>
 
 <div markdown=1 class="bd-callout bd-callout-info">
 
-### **15. RIDEN: uniform density histogram via reference instance discriminator with entropy maximization for distribution shift detection**
+### **15. RIDEN: uniform density histogram via reference instance discriminator with entropy maximization for distribution shift detection <span style="background-color: #82EEF9">[Paper ID: 67]</span>**
 
 **<span style="background-color: #FFFF00">Authors:</span>** Kei Yonekawa (KDDI Research, Inc.)\*; Kazuhiro Saito (KDDI Research, Inc.); Mori Kurokawa (KDDI Research, Inc.)
 </div>
@@ -123,7 +123,7 @@ menutitle: Research Track <br/>Papers/Posters
 
 <div markdown=1 class="bd-callout bd-callout-info">
 
-### **18. Accurate and Efficient Channel pruning via Orthogonal Matching Pursuit**
+### **18. Accurate and Efficient Channel pruning via Orthogonal Matching Pursuit <span style="background-color: #82EEF9">[Paper ID: 70]</span>**
 
 **<span style="background-color: #FFFF00">Authors:</span>** Kiran Purohit (IIT Kharagpur)\*; Anurag Parvathgari (IIT Kharagpur); Soumi Das (Indian Institute of Technology, Kharagpur); Sourangshu Bhattacharya (IIT KHARAGPUR)
 </div>

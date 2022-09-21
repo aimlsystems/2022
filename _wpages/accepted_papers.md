@@ -13,12 +13,12 @@ menutitle: Research Track <br/>Papers/Posters
 &nbsp;  
 </div>
 
-<div markdown=1 class="bd-callout bd-callout-info">
+<!--<div markdown=1 class="bd-callout bd-callout-info">
 
-### **2. Uncertainty Estimation Using Deep Neural Network and Gradient Boosting Method**
+ ### **2. Uncertainty Estimation Using Deep Neural Network and Gradient Boosting Method**
 
 **<span style="background-color: #FFFF00">Authors:</span>** Akash Mondal (American Express)\*; Akash Mondal (American Express)
-</div>
+</div> -->
 
 <div markdown=1 class="bd-callout bd-callout-info">
 
@@ -26,7 +26,7 @@ menutitle: Research Track <br/>Papers/Posters
 
 **<span style="background-color: #FFFF00">Authors:</span>** Madhav Rao (International Institute of information Technology, Bangalore)\*; Sanjaya M V (IIIT Bangalore)
 </div>
-<div markdown=1 class="bd-callout bd-callout-info">
+<div markdown=1 class="bd-callout bd-callout-info"> 
 
 ### **4. A Hybrid Planning System for Smart Charging of Electric Fleets <span style="background-color: #82EEF9">[Paper ID: 18]</span>**
 

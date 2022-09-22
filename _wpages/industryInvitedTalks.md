@@ -134,7 +134,6 @@ title: Industry Invited Speakers
             {% endif %}
             {{ d }}
         </div>
-        <br/>
         {% endfor %}
         {% endif %}
         {% if site.data.bio[mem] %}

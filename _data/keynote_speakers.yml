@@ -2,11 +2,14 @@ Research:
   -
     speakers:
       - Carlos Guestrin
-    title: Topic to be updated
+    title: "How can you trust machine learning?"
     video: Not availabe right now
-    abstract:
+    abstract: 
       -
-        - To be updated
+        - "Machine learning (ML) and AI systems are becoming integral parts of every aspect of our lives. The definition, development and deployment of these systems are driven by (complex) human choices. And, as these AIs are making more and more decisions for us, and the underlying ML systems are becoming more and more complex, it is natural to ask the question: How can we trust machine learning? "
+        - "In this talk, I'll present a framework, anchored on three pillars: Clarity, Competence and Alignment. For each, I'll describe algorithmic and human processes that can help drive towards more effective, impactful and trustworthy AIs. For Clarity, I'll cover methods for making the predictions of machine learning more explainable. For Competence, I will focus on methods to evaluating and testing ML models with the rigor that we apply to complex software products. Finally, for Alignment, I'll describe the complexities of aligning the behaviors of an AI with the values we want to reflect in the world, along with methods that can yield more aligned outcomes. "
+        - "Through this discussion, we will cover both fundamental concepts and actionable algorithms and tools that can lead to increased trust in ML."
+
 
   -
     speakers:

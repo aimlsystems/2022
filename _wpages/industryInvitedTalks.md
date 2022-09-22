@@ -123,7 +123,7 @@ title: Industry Invited Speakers
         </div>
     </div>
     <div class="col-9 col-12-medium">
-        <h4>{{ detail['title'] }}</h4>
+        <h2>{{ detail['title'] }}</h2>
         {% if detail['abstract'] %}
         {% for d in detail['abstract'] %}
         <div class="text-justify">

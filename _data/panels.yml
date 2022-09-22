@@ -2,11 +2,12 @@
   moderator: Ralf Herbrich
   # time: 5:00 PM - 6:30 PM, Thursday, 21 October 2021
   panelist:
-    - Christian Mayr
-    - Prateek Jain
-    - Kishor Narang
-    - Sudeep Pasricha
     - Ajay Joshi
+    - Christian Mayr
+    - Kishor Narang
+    - Prateek Jain
+    - Sudeep Pasricha
+    
 
   #- ""
 
@@ -14,9 +15,10 @@
   moderator: Rajeev Rastogi
   # time: 5:00 PM - 6:30 PM, Friday, 22 October 2021
   panelist: 
-    - Manish Gupta jr
-    - Wolfgang Nejdl
-    - Mayur Datar
     - Hima Lakkaraju
     - Kush Varshney
+    - Manish Gupta jr
+    - Mayur Datar
+    - Wolfgang Nejdl
+   
 

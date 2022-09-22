@@ -1,6 +1,6 @@
 ---
 layout: other
-title: Panel
+title: Panels
 ---
 
 {% for panel in site.data.panels %}

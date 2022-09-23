@@ -20,6 +20,10 @@ title: Panels
 {:.nt-panel-title}
 ##### Topic: _{{ panel.topic }}_
 
+
+{:.text-justify}
+##### Abstract: _{{panel.abstract }}_
+
 {:.nt-panel-title}
 ##### Moderator
 

@@ -1,4 +1,5 @@
 - topic:  "Low Energy AI"
+  abstract: "To be updated"
   moderator: Ralf Herbrich
   # time: 5:00 PM - 6:30 PM, Thursday, 21 October 2021
   panelist:
@@ -12,6 +13,7 @@
   #- ""
 
 - topic: "Responsible AI"
+  abstract: Responsible AI systems are fair, interpretable, respectful of user privacy, and trustworthy. Fairness implies that systems don’t discriminate between different groups of users. Interpretability involves being able to provide explanations for model predictions. Respecting user privacy involves ensuring that model predictions don’t leak private data of individuals. And finally, trustworthy systems behave in expected ways and are robust to variations in data. In this panel, we will seek to demystify and define the four key aspects of Responsible AI systems – fairness, interpretability, respecting user privacy and trustworthiness – and explore best practices to achieve them.
   moderator: Rajeev Rastogi
   # time: 5:00 PM - 6:30 PM, Friday, 22 October 2021
   panelist: 

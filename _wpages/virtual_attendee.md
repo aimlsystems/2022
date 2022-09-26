@@ -3,32 +3,33 @@ layout: other
 title: Attendee Instructions
 ---
 
-<h2><center><p>Page to be updated soon!</p></center></h2>
-<!-- The First AI-ML Systems Conference will be a hybrid conference.  If you have registered for the physical meeting, join us at The Chancery Pavilion. If you are attending it virtually, you can join us at Airmeet using the link below. You can attend the virtual conference using a laptop/desktop or mobile using the Airmeet android app.
+The Second International Conference on AI-ML Systems (AI-ML Systems’22) will be held as a hybrid conference. If you have registered for the physical meeting, join us at The Chancery Pavilion. If you are attending it virtually, you can join us at Airmeet using the link below. You can attend the virtual conference using a laptop/desktop or mobile using the
+Airmeet android app.
 
-[Virtual Conference Site](https://www.airmeet.com/e/a1006280-1ae6-11ec-8d0d-4992b8be7b36)
+[Virtual Conference Site](https://www.airmeet.com/e/55c5e8a0-36fe-11ed-91e3-65b2616b6a61)
 
-Entry to the virtual site is restricted to registered delegates only. You will receive an invitation email from Airmeet with a unique link to attend the conference.  Check your spam box if you haven’t received the email in your inbox.  If you can’t find the email, you can still log in to the virtual site using the email registered for the conference.
+Entry to the virtual site is restricted to registered delegates only. You will receive an invitation email from Airmeet with a unique link to attend the conference on or before 7th October, 2022. Check your spam box if you don’t receive the email in your inbox. If you are unable to find the email, you can still log in to the virtual site using the email registered for the
+conference.
 
 
 ## Instructions for registered participants
 
-* AI-ML Systems is a private event and can only be accessed by registered delegates.
-* If you have registered already, you are pre-authorized for the event. You should have already received an email from Airmeet with a title ‘Confirm Registration for [Event Name], on [Date]’. If you’re not able locate the email, please check the spam folder.
+* AI-ML Systems 2022 is a private event and can only be accessed by registered delegates.
+* If you have registered already, you are pre-authorized for the event. You will receive an invite from Airmeet with the title ‘Confirm Registration for [Event Name], on [Date]’. The invitation will be sent on or before 7th October, 2022. If you’re not able to locate the email, please check the spam folder.
 * If you’re still unable to find the registration email, do not worry. Go to the event link and sign up yourself using the same email shared during registration. Your email is the event database and it will automatically allow you to register and attend.
 * In case you still face difficulty, drop an email to us at aimlsys.conference@gmail.com with your registration details and someone will revert back to you at the earliest.
-
 
 ## Tips for Attendees
 
 To have the best experience of the Airmeet platform, please follow the guidelines below:
 
-* Virtual event can be accessed using Laptop/Desktop or Android app available in the playstore.
+* Virtual event can be accessed using Laptop/Desktop or [Android app](https://play.google.com/store/apps/details?id=com.airmeet.airmeet) available in the playstore.
 * For a full Conference experience, join from a Laptop/ Desktop. The participants joining airmeet through a mobile app shall have limited experience.
 * Airmeet works best on the Google Chrome browser. We advise you to use the latest version of the browser.
 * Use stable (broadband) internet connection. Using a Mobile Connection hotspot is not recommended.
 * Disable VPN/ Firewall settings (In case of office laptops).
-* Allow Mic and Camera permissions in Chrome to enable audio/video interactions. This guide from Google Support will help if not already sorted out.
+* Allow Mic and Camera permissions in Chrome to enable audio/video interactions.
+[This guide from Google Support will help if not already sorted out.](https://support.google.com/chrome/answer/2693767?co=GENIE.Platform%3DDesktop&hl=en)
 * Troubleshooting tip: Refresh page/restart browser, and ensure no other video conferencing tools are active in other tabs.
 * Access Live support: For any live support before/during the event Click the "?" icon on the bottom right of your screen.
 
@@ -37,8 +38,7 @@ To have the best experience of the Airmeet platform, please follow the guideline
 Once you log in, you land at the reception. The reception gives you a highlight of the day. You will see a number of tabs & controls on the top to interact with the event.
 
 * Reception: This tab shows you the highlights of the day.
-* Schedule: Access the conference program from this tab and navigate to the session you would like to attend.
-* My Schedule: Quick access to sessions you have added to your schedule.
+* View Schedule: Access the conference program from this tab and navigate to the session you would like to attend.
 * Feed: Interact with event organizers and participants in this group chat.
 * People: Discover and connect with participants.
 * Message: Reply to your direct messages here.
@@ -54,13 +54,13 @@ Inside a live session, use the Session-Feed to chat and Q&A panel to ask questio
 
 ![AirMeet Talk]({{ site.baseurl }}/images/airmeet/AIML3.JPG){:.img-fluid}
 
-Use the lounge section to meet and interact with other participants at the conference. If you are looking for someone from the organizing team, you can visit the '*Conference Helpdesk*' table during the conference hours.
+Use the lounge section to meet and interact with other participants at the conference. If you are looking for someone from the organising team, you can visit the 'Conference Helpdesk' table during the conference hours.
 
 ![AirMeet Talk]({{ site.baseurl }}/images/airmeet/AIML4.JPG){:.img-fluid}
 
-Meet our sponsors in the ‘Booth’ section. Each booth will have a table for live interactions. Even if the sponsors are not available, you can walk-in any time to access the reference material and drop your interest to meet them.
+<!--Meet our sponsors in the ‘Booth’ section. Each booth will have a table for live interactions. Even if the sponsors are not available, you can walk-in any time to access the reference material and drop your interest to meet them.
 
-![AirMeet Talk]({{ site.baseurl }}/images/airmeet/AIML5.JPG){:.img-fluid}
+![AirMeet Talk]({{ site.baseurl }}/images/airmeet/AIML5.JPG){:.img-fluid}-->
 
 
 ## Attendee Guide to Airmeet
@@ -72,7 +72,12 @@ Meet our sponsors in the ‘Booth’ section. Each booth will have a table for l
 <tr><td markdown=1>
 * Step by step guide for attendees - [Click Here](https://help.airmeet.com/support/solutions/articles/82000480786-step-by-step-guide-for-attendees-conference-format) / [Watch Here](https://www.loom.com/share/a8b5ad3b7a164211ab151fd774be0c05)
 
-AI-ML Systems is a private event and can only be accessed by registered delegates.  If you have registered already, you are pre-authorized for the event. You should have already received an email from Airmeet with a title ‘Confirm Registration for [Event Name], on [Date]’. If you’re not able locate the email, please check the spam folder. If you’re still unable to find the registration email, do not worry. Go to the event link and sign up yourself using the same email shared during registration. Your email is the event database and it will automatically allow you to register and attend.
+AI-ML Systems is a private event and can only be accessed by registered delegates. If you have registered
+already, you are pre-authorized for the event. You should have already received an email from Airmeet with a
+title ‘Confirm Registration for [Event Name], on [Date]’. If you’re not able locate the email, please check the
+spam folder. If you’re still unable to find the registration email, do not worry. Go to the event link and sign up
+yourself using the same email shared during registration. Your email is the event database and it will
+automatically allow you to register and attend.
 </td></tr>
 <tr><td markdown=1>
 #### Live Event Controls
@@ -112,4 +117,3 @@ AI-ML Systems is a private event and can only be accessed by registered delegate
 
 
 For any further assistance feel free to reach out to Airmeet at the 24/7 support lounge. [Click Here](https://www.airmeet.com/event/b6645470-f81d-11ea-bdd0-e9fe5fe214a9)
- -->

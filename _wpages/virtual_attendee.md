@@ -44,19 +44,19 @@ Once you log in, you land at the reception. The reception gives you a highlight 
 * Message: Reply to your direct messages here.
 * Alerts: Check announcements sent by organizers here.
 
-![AirMeet Home]({{ site.baseurl }}/images/airmeet/AIML1.JPG){:.img-fluid}
+![AirMeet Home]({{ site.baseurl }}/images/airmeet/AIML1.png){:.img-fluid}
 
 Access the conference program and attend the sessions using the ‘Schedule’ tab.
 
-![AirMeet Schedule]({{ site.baseurl }}/images/airmeet/AIML2.JPG){:.img-fluid}
+![AirMeet Schedule]({{ site.baseurl }}/images/airmeet/AIML2.png){:.img-fluid}
 
 Inside a live session, use the Session-Feed to chat and Q&A panel to ask questions to the speaker. You can also upvote the questions asked by other attendees. At the end of the talk, the session chair will pick the question from the Q & A panel for the speaker.
 
-![AirMeet Talk]({{ site.baseurl }}/images/airmeet/AIML3.JPG){:.img-fluid}
+![AirMeet Talk]({{ site.baseurl }}/images/airmeet/AIML3.png){:.img-fluid}
 
 Use the lounge section to meet and interact with other participants at the conference. If you are looking for someone from the organising team, you can visit the 'Conference Helpdesk' table during the conference hours.
 
-![AirMeet Talk]({{ site.baseurl }}/images/airmeet/AIML4.JPG){:.img-fluid}
+![AirMeet Talk]({{ site.baseurl }}/images/airmeet/AIML4.png){:.img-fluid}
 
 <!--Meet our sponsors in the ‘Booth’ section. Each booth will have a table for live interactions. Even if the sponsors are not available, you can walk-in any time to access the reference material and drop your interest to meet them.
 

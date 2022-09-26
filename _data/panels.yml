@@ -1,5 +1,5 @@
 - topic:  "Low Energy AI"
-  abstract: "To be updated"
+  abstract: Over the past decades, the focus of AI research has been mostly on predictive accuracy of AI algorithms and systems resulting in remarkable achievements such as AlphaGo (beating the best human player in Go), GPT-3 (resulting in a text-generating system that is nearly indistinguishable from human writing in terms of fluency) or object detection systems that have super-human accuracy. However, these feats have come at the expense of an extraordinary amount of computing power and energy consumption of algorithms, surpassing by orders of magnitude the energy consumptions of (comparable) human intelligence. As AI algorithms start to enter all parts of society, it will be imperative that not only accuracy but also energy consumption of AI systems matches that of the human brain. In this panel, we will discuss what aspects of hardware, software and algorithm design we need to re-consider as well as promising approaches to achieve human-level accuracy on intelligent tasks with the same amount of energy consumed as the human brain.
   moderator: Ralf Herbrich
   # time: 5:00 PM - 6:30 PM, Thursday, 21 October 2021
   panelist:

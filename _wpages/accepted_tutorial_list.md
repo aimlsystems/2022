@@ -43,7 +43,7 @@ It is widely accepted that data preparation is one of the most time consuming st
 
 # Tutorial 3
 
-### **<span style="background-color: #82EEF9">Knowledge In - Wisdom Out - Explainable Data for AI in Cyber Social Threats and Public Health</span>**  
+### **<span style="background-color: #82EEF9">Neuro-symbolic AI for Mental Healthcare</span>**  
 &nbsp;  
 #### **Speakers:**  
 * Amit Sheth, University of South Carolina
@@ -54,6 +54,8 @@ It is widely accepted that data preparation is one of the most time consuming st
 
 #### **Abstract:**  
 In today's data-driven world, organizations derive insights from massive amounts of data through large scale statistical machine learning models. However, statistical techniques can be easy to fool with adversarial instances (a neural network can predict a non-extremist as an extremist by mere presence of the word Jihad), which raises question in Data Quality. In high stakes decision making problems, such as cyber social threats, it is highly sensitive to classify a non-extremist as an extremist and vice-versa. Data quality is good if the data possesses adequate domain coverage and the labels contain adequate semantics. For example, is the semantics of an extremist vs. non-extremist vis-a-vis the word Jihad captured in the label (adequate semantics in labels)? Also, are there enough non-extremists with the word Jihad in the training data from the perspective of religion, hate, or ideology? Thus semantic annotation of the data, beyond mere labels attached to data instances, can significantly improve the robustness of model outcomes and ensure that the model has learned from trustworthy, knowledge-guided data standards. It is important to note that the knowledge-guided standards help de-bias the data if specified correctly (contextualized de-biasing extremist behavior data from bias towards the word Jihad). Therefore, in addition to trust in the robustness of outcomes, knowledge guided data creation also enables fair and ethical practices during real-world deployment of machine learning in high stakes decision making. We denote such data as Explainable Data. In this tutorial of type course and case-studies, we detail how to construct Explainable Data using various expert resources and knowledge graphs.
+
+Tutorial Webpage:  [https://aiisc.ai/neurone/](https://aiisc.ai/neurone/)
 
 </div>
 

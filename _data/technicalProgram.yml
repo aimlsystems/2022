@@ -1,3 +1,18 @@
+T1-1:
+  time: Friday, 13 October 2022
+  session: Network Pruning
+  papers:
+    - "12:10 PM - 12:35 PM: Acceleration-aware, Retraining-free Evolutionary Pruning for Automated Fitment of Deep Learning Models on Edge Devices <br> Speakers:  Jeet Dutta (TCS Research); Arijit Mukherjee (TCS Research)*; Swarnava Dey (TCS Research, Tata Consultancy Services Ltd.); Arpan Pal (Tata Consultancy Services)"
+    - "12:35 PM - 01:00 PM: Accurate and Efficient Channel pruning via Orthogonal Matching Pursuit <br> Spreakers: Kiran Purohit (IIT Kharagpur)*; Anurag Parvathgari (IIT Kharagpur); Soumi Das (Indian Institute of Technology, Kharagpur); Sourangshu Bhattacharya (IIT Kharagpur)"
+
+T1-2:
+  time: Friday, 13 October 2022
+  session: Novel ML Applications
+  papers:
+    - "02:40 PM - 03:05 PM: A Hybrid Planning System for Smart Charging of Electric Fleets <br> Speaker: Kshitij Garg (TCS Research); Ajay Narayanan (TCS Research); Prasant Misra (TCS Research)*; Arunchandar Vasan (TCS Research); Vivek Bandhu (TCS); Debarupa Das (TCS)"
+    - "03:05 PM - 03:30 PM: Ensembling Deep Learning And CIELAB Color Space Model for Fire Detection from UAV images <br> Speaker: Yash Jain (Indian Institute of Technology Roorkee)*; Vishu Saxena (Indian Institute of Technology Roorkee); Sparsh Mittal (IIT Roorkee)"
+    - "03:30 PM - 03:55 PM: Efficient Graph based Recommender System with Weighted Averaging of Messages <br>Speaker: Faizan Ahemad (Amazon India)*"
+
 T2-1:
   time: Friday, 14 October 2022
   session: Probabilistic Learning Systems

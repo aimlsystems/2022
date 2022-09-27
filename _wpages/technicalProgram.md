@@ -3,8 +3,7 @@ layout: other
 title: Technical Program
 ---
 
-<h1><center><p></p>To be updated soon</center></h1>
-<!-- {% for ses in site.data.technicalProgram %}
+{% for ses in site.data.technicalProgram %}
 
 {% if forloop.index0 > 0 %}
 <br>
@@ -29,4 +28,4 @@ title: Technical Program
 </div>
 
 
-{% endfor %} -->
+{% endfor %}

@@ -1,49 +1,15 @@
-T1-1:
-  time: Thursday, 21 October, 11:30AM - 1:00PM
-  session: Efficiency
+S-1:
+  time: Saturday, 15 October, 11:30 AM - 01:00 PM
+  session: Hardware Systems for AI
   papers:
-    - Leveraging Prediction Confidence For Versatile Optimizations to CNNs (R)
-    - Federated matched averaging with information-gain based parameter sampling (R)
-    - A Deep Learning framework for Interoperable Machine Learning (I)
-    - Towards Accelerating Offline RL based Recommender Systems (I)
-    - On Handling Class Imbalance in Continual Learning based Network Intrusion Detection Systems (R)
-    - Generalized Weight Agnostic Neural Networks for Configurable and Continual Autonomous Systems (R)
-
-T1-2-1:
-  time: Thursday, 21 October, 2:00PM - 3:30PM
-  session: Socio-Economic Applications + demo
+    - "12:10 PM - 12:35 PM: Performance improvement of reinforcement learning algorithms for online 3D bin packing using FPGA <br> Speaker: Ashwin Krishnan"
+    - "12:35 PM - 01:00 PM: Performance Evaluation of gcForest inferencing on multi-core CPU and FPGA <br> Sharyu Mukhekar"
+S-2:
+  time: Saturday, 15 October, 02:00 PM - 04:45 PM
+  session: Software Systems for AI
   papers:
-    - Stacked Sparse Autoencoder and Machine Learning Based Anxiety Classification Using EEG Signals (R)
-    - InuAid Chest X-rays AI Product (I)
-    - Real-time Social Distancing Detection System with Auto-calibration using Pose Information (Demo)
-    - "Measuring Viscosity of Fluids: A Deep Learning Approach Using a CNN-RNN  Architecture (R)"
-    - Targeted Upskilling Framework based on Player Mistake Context in Online Skill Gaming Platforms (R)
-    - "Source-Code Similarity Measurement: Syntax Tree Fingerprinting for Automated Evaluation (R)"
-
-T1-2-2:
-  time: Thursday, 21 October, 3:45PM - 4:30PM
-  session: ML and Security
-  papers:
-    - Inferring DNN layer-types through a hardware performance counters based side channel attack (R)
-    - "BOND: Efficient and Frugal DL Model Co-design for Botnet detection on IoT Gateways (R)"
-    - CryptInfer - Enabling Practical Inference on Encrypted Skin Lesion Images for Melanoma Detection (R)
-
-T1-3:
-  time: Friday, 22 October, 11:30AM - 1:00PM
-  session: NLP and Information Retrieval
-  papers:
-    - A Word Embedding Topic Model for Robust Inference of Topics and Visualization (R)
-    - Word-level beam search decoding and correction algorithm (WLBS) for end-to-end ASR (R)
-    - Few shot learning for cross-lingual isolated word recognition (R)
-    - Class-Based Order-Independent Models of Natural Language for Bayesian Auto-Complete Inference (I)
-    - A Hybrid Approach for Offline A/B Evaluation for Item Ranking Algorithms in  Recommendation Systems (I)
-
-T1-5:
-  time: Saturday, 23 October, 11:30AM - 1:00PM
-  session: Systems for ML Opt
-  papers:
-    - "Bridging between Data Science and Performance Analysis: Tracing of Jupyter Notebooks (R)"
-    - Scarecrow - Intelligent Annotation platform for Engine Health Management (I)
-    - "Optimizing Convolutions for an Inference Accelerator [Case Study: Intel’s NNP-I 1000 DL Compute Grid] (I)"
-    - Resource Constrained Neural Networks for Direction-of-Arrival Estimation in Micro-controllers (R)
-    - "VeRLPy: Python Library for Verification of Digital Designs with Reinforcement Learning (R)"
+    - "02:40 PM - 03:05 PM: Automated Deep Learning Model Partitioning for Heterogeneous Edge Devices <br> Speaker: Arijit Mukherjee"
+    - "03:05 PM - 03:30 PM: Health Assurance: AI Model Monitoring Platform <br> Speaker: Anirban Ghosh"
+    - "03:30 PM - 03:55 PM: Efficient Vector Store System for Python using Shared Memory <br>Speaker: Dhruv Patel"
+    - "03:55 PM - 04:20 PM: Address Location Correction System for Q-commerce <br> Speaker: Yashwanth Reddy"
+    - "04:20 PM - 04:45 PM: How Provenance helps Quality Assurance Activities in AI/ML Systems <br>Speaker: KS Kim"

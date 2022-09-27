@@ -1,3 +1,17 @@
+T2-1:
+  time: Friday, 14 October 2022
+  session: Probabilistic Learning Systems
+  papers:
+    - "12:10 PM - 12:35 PM: RIDEN: uniform density histogram via reference instance discriminator with entropy maximization for distribution shift detection <br> Speakers: Kei Yonekawa (KDDI Research, Inc.)*; Kazuhiro Saito (KDDI Research, Inc.); Mori Kurokawa (KDDI Research, Inc.)"
+    - "12:35 PM - 01:00 PM: DEC-aided SM-OFDM: A Spatial Modulation System with Deep Learning based Error Correction <br> Spreakers: Harsh Verma (IIIT Delhi)*; Vivek Bohara (IIIT Delhi); Anubha Gupta (IIIT Delhi)"
+
+T2-2:
+  time: Friday, 14 October 2022
+  session: Real-time ML Systems
+  papers:
+    - "02:40 PM - 03:05 PM: Hetero-Rec: Optimal Deployment of Embeddings for High-Speed Recommendations <br> Speakers: Chinmay N Mahajan (TCS); Ashwin Krishnan (TCS Research)*; Manoj Nambiar (TCS); Rekha Singhal (TCS)"
+    - "03:05 PM - 03:30 PM: System Design for an Integrated Lifelong Reinforcement Learning Agent For Real-Time Strategy Games <br> Speakers:  Indranil Sur (SRI International )*; Zachary A Daniels (SRI International); Aswin Raghavan (SRI International); Jesse Hostetler (SRI International); Abrar Rahman (SRI International); Michael R Piacentino (SRI International); Ajay Divakaran (SRI, USA); Roberto Corizzo (American University); Kamil Faber (AGH University of Science and Technology); Nathalie Japkowicz (American University); Michael Baron (); James S Smith (Georgia Institute of Technology); Sahana Joshi (Georgia Tech); Zsolt Kira (Georgia Institute of Technology); Tyler L Hayes (RIT); Christopher Kanan (University of Rochester); Gianmarco J Gallardo (RIT)"
+
 S-1:
   time: Saturday, 15 October, 11:30 AM - 01:00 PM
   session: Hardware Systems for AI

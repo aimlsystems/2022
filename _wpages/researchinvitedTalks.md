@@ -34,8 +34,8 @@ title: Research Invited Speakers
 
 
 
-
-<a id="industryinvited_{{ forloop.index }}_{{ catId }}"></a>
+<!-- {{ forloop.index }} -->
+<a id="researchinvited_{{ forloop.index }}"></a>
 <div class="row">
     <div class="col-3 col-12-medium">
         <div class="row text-center">

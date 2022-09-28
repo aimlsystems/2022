@@ -7,7 +7,7 @@ menutitle: Tutorials
 <div markdown=1 class="bd-callout bd-callout-info">
 
 <!-- #  Accepted/Invited Tutorials List -->
-
+<a id="t01"></a>
 # Tutorial 1
 ### **<span style="background-color: #82EEF9">Large-Scale Entity Extraction from Enterprise Data</span>**   
 &nbsp;  
@@ -21,7 +21,7 @@ Adoption of cloud computing by enterprises has exploded in the last decade and m
 </div>
 
 <div markdown=1 class="bd-callout bd-callout-info">
-
+<a id="t02"></a>
 # Tutorial 2
 
 ### **<span style="background-color: #82EEF9">Advances in exploratory data analysis, visualisation and quality for data centric AI systems</span>**  
@@ -40,7 +40,7 @@ It is widely accepted that data preparation is one of the most time consuming st
 </div>
 
 <div markdown=1 class="bd-callout bd-callout-info">
-
+<a id="t03"></a>
 # Tutorial 3
 
 ### **<span style="background-color: #82EEF9">Neuro-symbolic AI for Mental Healthcare</span>**  
@@ -60,7 +60,7 @@ Tutorial Webpage:  [https://aiisc.ai/neurone/](https://aiisc.ai/neurone/)
 </div>
 
 <div markdown=1 class="bd-callout bd-callout-info">
-
+<a id="t04"></a>
 # Tutorial 4
 
 ### **<span style="background-color: #82EEF9">Malware Analysis and Detection</span>**  
@@ -75,7 +75,7 @@ Often computer/mobile users call everything that disturbs/corrupts their system 
 </div>
 
 <div markdown=1 class="bd-callout bd-callout-info">
-
+<a id="t05"></a>
 # Tutorial 5
 
 ### **<span style="background-color: #82EEF9">Identification of causal dependencies in multivariate time series</span>**
@@ -92,7 +92,7 @@ Telecommunications networks operate on enormous amount of time-series data, and 
 </div>
 
 <div markdown=1 class="bd-callout bd-callout-info">
-
+<a id="t06"></a>
 # Tutorial 6
 
 ### **<span style="background-color: #82EEF9">TinyML Techniques for running Machine Learning models on Edge Devices</span>**

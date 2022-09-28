@@ -27,13 +27,13 @@ T2-2:
     - "02:40 PM - 03:05 PM: Hetero-Rec: Optimal Deployment of Embeddings for High-Speed Recommendations <br> Speakers: Chinmay N Mahajan (TCS); Ashwin Krishnan (TCS Research)*; Manoj Nambiar (TCS); Rekha Singhal (TCS)"
     - "03:05 PM - 03:30 PM: System Design for an Integrated Lifelong Reinforcement Learning Agent For Real-Time Strategy Games <br> Speakers:  Indranil Sur (SRI International )*; Zachary A Daniels (SRI International); Aswin Raghavan (SRI International); Jesse Hostetler (SRI International); Abrar Rahman (SRI International); Michael R Piacentino (SRI International); Ajay Divakaran (SRI, USA); Roberto Corizzo (American University); Kamil Faber (AGH University of Science and Technology); Nathalie Japkowicz (American University); Michael Baron (); James S Smith (Georgia Institute of Technology); Sahana Joshi (Georgia Tech); Zsolt Kira (Georgia Institute of Technology); Tyler L Hayes (RIT); Christopher Kanan (University of Rochester); Gianmarco J Gallardo (RIT)"
 
-S-1:
+T3-1:
   time: Saturday, 15 October, 11:30 AM - 01:00 PM
   session: Hardware Systems for AI
   papers:
     - "12:10 PM - 12:35 PM: Performance improvement of reinforcement learning algorithms for online 3D bin packing using FPGA <br> Speaker: Ashwin Krishnan"
     - "12:35 PM - 01:00 PM: Performance Evaluation of gcForest inferencing on multi-core CPU and FPGA <br> Sharyu Mukhekar"
-S-2:
+T3-2:
   time: Saturday, 15 October, 02:00 PM - 04:45 PM
   session: Software Systems for AI
   papers:

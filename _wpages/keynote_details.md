@@ -24,6 +24,7 @@ title: Keynote Speakers
 {% continue %}
 {% endif %}
 <!-- {{ talk }} -->
+<!-- {{ forloop.index }}{{ catId }} -->
 <a id="keynote_{{ forloop.index }}_{{ catId }}"></a>
 <div class="row">
     <div class="col-3 col-12-medium">

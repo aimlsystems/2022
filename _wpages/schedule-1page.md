@@ -121,7 +121,9 @@ title: Schedule
 
 <!-- Tab links -->
 <div class="tab">
-  <a href="{{ site.baseurl }}/schedule" class="btn btn-grey">Multi Page</a> <a href="{{ site.baseurl }}/technicalProgram" class="btn btn-grey">Technical Program</a>
+  <a href="{{ site.baseurl }}/schedule" class="btn btn-grey">Multi Page</a> 
+  <a href="{{ site.baseurl }}/technicalProgram" class="btn btn-grey">Technical Program</a>
+  <a href="{{ site.baseurl }}/docs/{{ site.schehule_pdf }}?{{ site.time | date: "%s" }}" download="AIMLSystems 2022- Schedule.pdf" class="btn btn-grey">Download PDF Vesrion</a>
 </div>
 
 <br><br>

@@ -13,6 +13,28 @@ T1-2:
     - "03:05 PM - 03:30 PM: Ensembling Deep Learning And CIELAB Color Space Model for Fire Detection from UAV images <br> Speaker: Yash Jain (Indian Institute of Technology Roorkee)*; Vishu Saxena (Indian Institute of Technology Roorkee); Sparsh Mittal (IIT Roorkee)"
     - "03:30 PM - 03:55 PM: Efficient Graph based Recommender System with Weighted Averaging of Messages <br>Speaker: Faizan Ahemad (Amazon India)*"
 
+D1-1:
+  time: Friday, 13 October 2022
+  session: 
+  papers:
+    - "11:30 AM - 11:40 AM: COSWARA: A Web Application for Data Collection and Real-time Screening of SARS-CoV-2 Infected Subjects <br> Speaker: Debarpan Bhattacharya"
+    - "11:40 AM - 11:50 AM: Connected Intelligence <br> Speaker: Nagaraj B"
+    - "11:50 AM - 12:00 PM: vaAnI - an AI-powered voice-enabled search engine for the visually-challenged community <br> Speaker: Shirsha Ray Chaudhuri"
+    - "12:00 PM -12:10 PM: Flexible AutoML: Accelerating AutoML adoption across Amazon <br> Speaker: Gaurav"
+    - "12:10 PM- 12:20 PM: Automating NLP workflows using AutoML NLP <br> Speaker: Shipra Jain"
+    - "12:20 PM -12:30 PM: Recommendation system for ML model deployment <br> Speakers: Barboza, John"
+
+D2-2:
+  time: Friday, 13 October 2022
+  session: 
+  papers:
+    - "2:00 PM - 2:10 PM: MLOps with enhanced performance control and observability <br> Speaker: Indradumna Bannerjee"
+    - "2:10 PM - 2:20 PM: EEG Data Visualisation for Blinking Eyes <br> Speaker: Darshil Shah"
+    - "2:20 PM - 2:30 PM: Sahasraaksha: Video analytics for smart campus surveillance <br> Speaker: Sriram G"
+    - "2:30 PM - 2:40 PM: FlAi MLOps <br> Speakers: Alurkar, Ruju N"
+    - "2:40 PM - 2:50 PM: Building Reusable AI Systems <br> Speaker: Vikas Raturi"
+    - "2:50 PM - 3:00 PM: We Built a Wall, for the Better (Running Online ML Experiments at Scale) <br> Speaker: Shahram Anver"
+
 T2-1:
   time: Friday, 14 October 2022
   session: Probabilistic Learning Systems

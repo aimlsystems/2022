@@ -17,23 +17,23 @@ D1-1:
   time: Friday, 13 October 2022
   session: 
   papers:
-    - "11:30 AM - 11:40 AM: COSWARA: A Web Application for Data Collection and Real-time Screening of SARS-CoV-2 Infected Subjects <br> Speaker: Debarpan Bhattacharya"
-    - "11:40 AM - 11:50 AM: Connected Intelligence <br> Speaker: Nagaraj B"
-    - "11:50 AM - 12:00 PM: vaAnI - an AI-powered voice-enabled search engine for the visually-challenged community <br> Speaker: Shirsha Ray Chaudhuri"
-    - "12:00 PM -12:10 PM: Flexible AutoML: Accelerating AutoML adoption across Amazon <br> Speaker: Gaurav"
-    - "12:10 PM- 12:20 PM: Automating NLP workflows using AutoML NLP <br> Speaker: Shipra Jain"
-    - "12:20 PM -12:30 PM: Recommendation system for ML model deployment <br> Speakers: Barboza, John"
+    - "11:30 AM - 11:40 AM: COSWARA: A Web Application for Data Collection and Real-time Screening of SARS-CoV-2 Infected Subjects (In-person)<br> Speaker: Debarpan Bhattacharya"
+    - "11:40 AM - 11:50 AM: Connected Intelligence (In-person)<br> Speaker: Nagaraj B"
+    - "11:50 AM - 12:00 PM: vaAnI - an AI-powered voice-enabled search engine for the visually-challenged community (In-person)<br> Speaker: Shirsha Ray Chaudhuri"
+    - "12:00 PM -12:10 PM: Flexible AutoML: Accelerating AutoML adoption across Amazon (In-person)<br> Speaker: Gaurav"
+    - "12:10 PM- 12:20 PM: Automating NLP workflows using AutoML NLP (In-person)<br> Speaker: Shipra Jain"
+    - "12:20 PM -12:30 PM: Recommendation system for ML model deployment (Virtual)<br> Speakers: Barboza, John"
 
 D2-2:
   time: Friday, 13 October 2022
   session: 
   papers:
-    - "2:00 PM - 2:10 PM: MLOps with enhanced performance control and observability <br> Speaker: Indradumna Bannerjee"
-    - "2:10 PM - 2:20 PM: EEG Data Visualisation for Blinking Eyes <br> Speaker: Darshil Shah"
-    - "2:20 PM - 2:30 PM: Sahasraaksha: Video analytics for smart campus surveillance <br> Speaker: Sriram G"
-    - "2:30 PM - 2:40 PM: FlAi MLOps <br> Speakers: Alurkar, Ruju N"
-    - "2:40 PM - 2:50 PM: Building Reusable AI Systems <br> Speaker: Vikas Raturi"
-    - "2:50 PM - 3:00 PM: We Built a Wall, for the Better (Running Online ML Experiments at Scale) <br> Speaker: Shahram Anver"
+    - "2:00 PM - 2:10 PM: MLOps with enhanced performance control and observability(In-person) <br> Speaker: Indradumna Bannerjee"
+    - "2:10 PM - 2:20 PM: EEG Data Visualisation for Blinking Eyes (In-person)<br> Speaker: Darshil Shah"
+    - "2:20 PM - 2:30 PM: Sahasraaksha: Video analytics for smart campus surveillance (In-person)<br> Speaker: Sriram G"
+    - "2:30 PM - 2:40 PM: FlAi MLOps (In-person)<br> Speakers: Alurkar, Ruju N"
+    - "2:40 PM - 2:50 PM: Building Reusable AI Systems (In-person)<br> Speaker: Vikas Raturi"
+    - "2:50 PM - 3:00 PM: We Built a Wall, for the Better (Running Online ML Experiments at Scale) (Virtual)<br> Speaker: Shahram Anver"
 
 T2-1:
   time: Friday, 14 October 2022

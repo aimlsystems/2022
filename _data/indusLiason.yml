@@ -15,10 +15,9 @@ invited:
       - Today recommender systems have an unprecedented influence on what content people consume on the internet and social media and what products they purchase on e-commerce platforms. For many internet companies, their recommender system happens to be the key lever to trigger the flywheel on user growth as well as monetisation. This talk emphasizes why we need to balance the objectives of multiple stakeholders when recommenders are deployed in a marketplace in order to properly ride the flywheel. We explain the need of optimizing for long term success in such a recommender system and what kind of short term trade-offs may be necessary. Further, we discuss multiple open problems in the state of the art of deep recommender systems, including addressing different kinds of biases picked up by trained representations, handling evolving behavioral data and so on.
 
   Ramesh Nallapati:
-    title: "Talk Details to be updated soon"
+    title: "Using AI to Accelerate Code Development"
     abstract:
-      - To be updated
-      -
+      - Although the cloud has democratized application development by providing on-demand access to compute, storage, database, analytics, and ML, the traditional process of building software applications still requires developers to spend significant time searching for documentation and code samples instead of focusing on core problems. Hence more automated practices are needed to help developers boost their productivity by finding relevant code, meeting coding best practices, and exploring new APIs without leaving their development environment. In this talk, we will share some of the research work we did as part of <a href="https://aws.amazon.com/codewhisperer/" target="_blank">Amazon CodeWhisperer</a> towards building large language models for automatic code completion and code generation based on natural language intents. In line with what is reported in recent literature, we will show how accuracy scales with training data and model size. We will also share interesting insights we learned on how models trained on multiple programming languages are more performant than mono-lingual models on zero-shot translation of code to out-of-domain languages, and on few-shot prompting of natural-language-to-code generation tasks. We will also talk about some of the experiments we did with novel contrastive loss functions both at token-level and sequence-level that boosted our accuracy further compared to traditional auto-regressive loss functions.
   
   Parminder Bhatia:
     title: " "

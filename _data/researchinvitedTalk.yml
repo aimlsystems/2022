@@ -2,6 +2,7 @@ invited:
 
   Alpan Raval:
     title: "AI for Social Impact"
+    time: Thursday, 13 October, 02:00 PM - 02:40 PM
     abstract:
       - "In this talk I will begin by presenting a perspective of problems affecting lives and livelihoods across the developing world, particularly in India, that are potentially addressable through recent advances in AI. I will then provide a broad and high-level overview of how we at Wadhwani AI are tackling some of these problems in healthcare and agriculture, the challenges we face in doing so, the potential impact of the work, and the path to adoption and scaling of such solutions in the developing-world context. The talk will be successful if it conveys the enthusiasm we have for the positive potential of AI to transform the lives of the underserved."
    
@@ -23,6 +24,7 @@ invited:
 
   Supratik Mukhopadhyay:
     title: "Artificial Intelligence and Machine Learning for Environmental Applications"
+    time: Thursday, 13 October, 11:30 AM - 12:10 PM
     abstract:
       - "Climate change and global warming are today recognized as problems that threaten the very existence of humanity on earth.  In the recent years, human civilization has been threatened by natural disasters – hurricanes, tornadoes, rise in sea level, droughts, floods, desertification of land, erosion of coastal areas, wildfires, etc. Human activity has resulted in water and air pollution that is adversely affecting  population health. Encroachment of humans in animal habitat have threatened biodiversity and ecological balance  and have increased the possibility of  transmission of diseases from wildlife to humans leading to possible pandemics/epidemics. Environmental disasters have diminished agricultural productivity and led to proliferation of pests, lack of grazing land resulting in reduced animal husbandry,  causing  increased poverty and reduced food security. In this talk, we discuss how AI can help in tackling the environmental challenges mentioned above through information gathering, processing and analyzing, decision making, observing consequences, and feeding back for forecasting. We discuss our recent work in using AI/ML for carbon mapping, climate smart agriculture, wildfire prediction and detection, preserving biodiversity, and energy efficiency in built environment."
 

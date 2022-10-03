@@ -1,20 +1,20 @@
 T1-1:
-  time: Friday, 13 October 2022
+  time: Thursday, 13 October 2022
   session: Network Pruning
   papers:
     - "12:10 PM - 12:35 PM: Acceleration-aware, Retraining-free Evolutionary Pruning for Automated Fitment of Deep Learning Models on Edge Devices <br> Speakers:  Jeet Dutta (TCS Research); Arijit Mukherjee (TCS Research)*; Swarnava Dey (TCS Research, Tata Consultancy Services Ltd.); Arpan Pal (Tata Consultancy Services)"
     - "12:35 PM - 01:00 PM: Accurate and Efficient Channel pruning via Orthogonal Matching Pursuit <br> Spreakers: Kiran Purohit (IIT Kharagpur)*; Anurag Parvathgari (IIT Kharagpur); Soumi Das (Indian Institute of Technology, Kharagpur); Sourangshu Bhattacharya (IIT Kharagpur)"
 
 T1-2:
-  time: Friday, 13 October 2022
+  time: Thursday, 13 October 2022
   session: Novel ML Applications
   papers:
     - "02:40 PM - 03:05 PM: A Hybrid Planning System for Smart Charging of Electric Fleets <br> Speaker: Kshitij Garg (TCS Research); Ajay Narayanan (TCS Research); Prasant Misra (TCS Research)*; Arunchandar Vasan (TCS Research); Vivek Bandhu (TCS); Debarupa Das (TCS)"
     - "03:05 PM - 03:30 PM: Ensembling Deep Learning And CIELAB Color Space Model for Fire Detection from UAV images <br> Speaker: Yash Jain (Indian Institute of Technology Roorkee)*; Vishu Saxena (Indian Institute of Technology Roorkee); Sparsh Mittal (IIT Roorkee)"
     - "03:30 PM - 03:55 PM: Efficient Graph based Recommender System with Weighted Averaging of Messages <br>Speaker: Faizan Ahemad (Amazon India)*"
 
-D1-1:
-  time: Friday, 13 October 2022
+D2-1:
+  time: Thursday, 13 October 2022
   session: 
   papers:
     - "11:30 AM - 11:40 AM: COSWARA: A Web Application for Data Collection and Real-time Screening of SARS-CoV-2 Infected Subjects (In-person)<br> Speaker: Debarpan Bhattacharya"
@@ -25,7 +25,7 @@ D1-1:
     - "12:20 PM -12:30 PM: Recommendation system for ML model deployment (Virtual)<br> Speakers: Barboza, John"
 
 D2-2:
-  time: Friday, 13 October 2022
+  time: Thursday, 13 October 2022
   session: 
   papers:
     - "2:00 PM - 2:10 PM: MLOps with enhanced performance control and observability(In-person) <br> Speaker: Indradumna Bannerjee"
@@ -48,6 +48,40 @@ T2-2:
   papers:
     - "02:40 PM - 03:05 PM: Hetero-Rec: Optimal Deployment of Embeddings for High-Speed Recommendations <br> Speakers: Chinmay N Mahajan (TCS); Ashwin Krishnan (TCS Research)*; Manoj Nambiar (TCS); Rekha Singhal (TCS)"
     - "03:05 PM - 03:30 PM: System Design for an Integrated Lifelong Reinforcement Learning Agent For Real-Time Strategy Games <br> Speakers:  Indranil Sur (SRI International )*; Zachary A Daniels (SRI International); Aswin Raghavan (SRI International); Jesse Hostetler (SRI International); Abrar Rahman (SRI International); Michael R Piacentino (SRI International); Ajay Divakaran (SRI, USA); Roberto Corizzo (American University); Kamil Faber (AGH University of Science and Technology); Nathalie Japkowicz (American University); Michael Baron (); James S Smith (Georgia Institute of Technology); Sahana Joshi (Georgia Tech); Zsolt Kira (Georgia Institute of Technology); Tyler L Hayes (RIT); Christopher Kanan (University of Rochester); Gianmarco J Gallardo (RIT)"
+
+D3-2:
+  time: Friday, 14 October 2022
+  papers:
+    - "11:30 AM - 11:50 AM: Invited Talk 1 
+    <br>- Through the Looking Glass <br> Speaker: Amit Saha, Principal Engineer, Cisco Meraki, Bangalore"
+    - "11:50 AM - 12:10 PM: Invited Talk 2 
+    <br>- Temporal Knowledge Graph Representation and Question Answering <br> Speaker: Soumen Chakrabarti, Professor, CSE, IIT Bombay, India"
+    - "12:10 PM - 1:00 PM: Doctoral Student Talks 
+       <br>    - COSWARA: A Respiratory Acoustics Based Point-of-care-testing Tool for SARS-CoV-2 Infection <br> Speakers: Debarpan Bhattacharya*; Neeraj Sharma; Srikanth Raj Chetupalli; Sriram Ganapathy (Indian Institute of Science)
+      <br> - Supervised approaches for Language and Speaker Recognition <br> Speaker: Shreyas Ramoji*; Sriram Ganapathy (Indian Institute of Science)
+      <br> - Representation Learning for Graph Retrieval <br> Speaker: Indradyumna Roy (IIT Bombay)*
+      <br> - Multiple Novel Intent Detection <br> Speaker: Ankan Mullick (IIT Kharagpur)*
+      <br> - MPCLeague: Robust MPC Platform for Privacy-Preserving Machine Learning <br> Speaker: Ajith Suresh (Technical University of Darmstadt )*
+      <br> - Tensor Networks Assisted Quantum Computing for Applications in Machine Learning and Quantum Chemistry <br> Speaker: Harshdeep Singh (Indian Institute of Technology, Kharagpur)*
+      <br> - LearnDefend: Learning to Defend against Backdoor Attacks on Federated Learning <br> Speaker: Kiran Purohit (IIT Kharagpur)*"
+D3-3:
+  time: Friday, 14 October 2022
+  papers:
+    - "2:00 PM - 2:20 PM: Invited Talk 3 
+    <br>- ML at Amazon: Learnings for Prospective Applied Scientists <br> Speaker: Vineet Chaoji, Sr. Applied Science Manager, Amazon"
+    - "2:20 PM - 3:30 PM: Doctoral Student Talks 
+       <br>- TMCOSS: Thresholded Multi-Criteria Online Subset Selection for Data-Efficient Autonomous Driving <br> Speaker: Soumi Das (Indian Institute of Technology, Kharagpur)*
+       <br>- MeFakE: Fake News Detection on Social Media using a PSO-based and Memory-efficient Deep Neural Network <br> Speaker: Dr. Rohit Kumar Kaliyar*; Dr. Anurag Goswami (Bennett University)
+       <br>- Reconfigurable Deep Learning Architectures for Wireless Channel Estimation <br> Speaker: Syed Asrar ul haq (Indraprastha Institute of Information Technology Delhi)*
+       <br>- Intelligent and Reconfigurable Wireless PHY <br> Speaker: Neelam Singh (IIITD)*
+       <br>- Class Incremental Learning in Plants <br> Speaker: Yash Mittal*; Uttam Kumar (IIIT Bangalore)
+       <br>- Data-Efficient Class-Incremental Learning <br> Speaker: Jayateja Kalla*; Soma Biswas (Indian Institute of Science)
+       <br>- Analog Computing Systems and Hybrid-Architectures for Machine Learning at Edge <br> Speaker: Pratik Kumar (Indian Institute of Science (IISc))*
+       <br>- Self-supervised learning for Speaker Diarization in the context of Conversational Speech <br> Speaker: Prachi Singh*; Sriram Ganapathy (Indian Institute of Science)
+       <br>- Edge based split-control using ML algorithms in Bilateral Teleoperation of Robots: Design and Analysis <br> Speaker: Muneeb Ahmed*; Brejesh Lall  Arzad A Kherani (IIT Delhi)"
+    - "3:30 PM - 4:30 PM: Panel Discussion
+      <br> Life after PhD; Data-centric vs Model-centric AI <br> Speakers: Amit Saha, Chiranjib Bhattacharyya, Suparna Bhattacharyya, Vineet Chaoji "
+
 
 T3-1:
   time: Saturday, 15 October, 11:30 AM - 01:00 PM

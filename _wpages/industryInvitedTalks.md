@@ -124,6 +124,7 @@ title: Industry Invited Speakers
     </div>
     <div class="col-9 col-12-medium">
         <h2>{{ detail['title'] }}</h2>
+        <h2>{{ detail['time'] }}</h2>
         {% if detail['abstract'] %}
         {% for d in detail['abstract'] %}
         <div class="text-justify">

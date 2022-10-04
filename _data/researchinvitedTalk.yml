@@ -18,9 +18,9 @@ invited:
 
  
   Rajalakshmi P:
-    title: "To be updated"
+    title: "Overview of Autonomous Navigation Research at IITH with specific use case discussion"
     abstract:
-      - To be updated
+      - An overview of the Autonomous navigation research and development activities at IITH will be introduced. Systems that look for and react to different vulnerable road users (VRUs), are very useful in enabling the safety of autonomous vehicle. Specific use cases like Autonomous Emergency Braking (AEB) for different real time scenarios using multiple sensors like LiDAR and camera will be discussed during the talk. 
 
   Supratik Mukhopadhyay:
     title: "Artificial Intelligence and Machine Learning for Environmental Applications"

@@ -52,10 +52,8 @@ T2-2:
 D3-2:
   time: Friday, 14 October 2022
   papers:
-    - "11:30 AM - 11:50 AM: Invited Talk 1 
-    <br>- Through the Looking Glass <br> Speaker: Amit Saha, Principal Engineer, Cisco Meraki, Bangalore"
-    - "11:50 AM - 12:10 PM: Invited Talk 2 
-    <br>- Temporal Knowledge Graph Representation and Question Answering <br> Speaker: Soumen Chakrabarti, Professor, CSE, IIT Bombay, India"
+    - "11:30 AM - 11:50 AM: Invited Talk 1- Through the Looking Glass <br> Speaker: Amit Saha, Principal Engineer, Cisco Meraki, Bangalore"
+    - "11:50 AM - 12:10 PM: Invited Talk 2- Temporal Knowledge Graph Representation and Question Answering <br> Speaker: Soumen Chakrabarti, Professor, CSE, IIT Bombay, India"
     - "12:10 PM - 1:00 PM: Doctoral Student Talks 
        <br>    - COSWARA: A Respiratory Acoustics Based Point-of-care-testing Tool for SARS-CoV-2 Infection <br> Speakers: Debarpan Bhattacharya*; Neeraj Sharma; Srikanth Raj Chetupalli; Sriram Ganapathy (Indian Institute of Science)
       <br> - Supervised approaches for Language and Speaker Recognition <br> Speaker: Shreyas Ramoji*; Sriram Ganapathy (Indian Institute of Science)
@@ -67,8 +65,7 @@ D3-2:
 D3-3:
   time: Friday, 14 October 2022
   papers:
-    - "2:00 PM - 2:20 PM: Invited Talk 3 
-    <br>- ML at Amazon: Learnings for Prospective Applied Scientists <br> Speaker: Vineet Chaoji, Sr. Applied Science Manager, Amazon"
+    - "2:00 PM - 2:20 PM: Invited Talk 3- ML at Amazon: Learnings for Prospective Applied Scientists <br> Speaker: Vineet Chaoji, Sr. Applied Science Manager, Amazon"
     - "2:20 PM - 3:30 PM: Doctoral Student Talks 
        <br>- TMCOSS: Thresholded Multi-Criteria Online Subset Selection for Data-Efficient Autonomous Driving <br> Speaker: Soumi Das (Indian Institute of Technology, Kharagpur)*
        <br>- MeFakE: Fake News Detection on Social Media using a PSO-based and Memory-efficient Deep Neural Network <br> Speaker: Dr. Rohit Kumar Kaliyar*; Dr. Anurag Goswami (Bennett University)

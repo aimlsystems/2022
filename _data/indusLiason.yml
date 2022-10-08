@@ -24,4 +24,10 @@ invited:
     #abstract:
     #  - To be updated
     #  -
-  
+  Vignesh Subrahmaniam:
+    title: "Automated Tax Notice Resolution"
+    abstract:
+      - "QuickBooks Online Payroll Full Service customers rely on Intuit to do their tax submissions. However, due to multiple reasons, these customers end up getting tax notices from Federal (IRS) or State tax agencies. This notice is a physical hard copy which is mailed to the customer. Such notices are complex, and need manual intervention to read, understand and analyze the cause and help resolve it. We’ve built a smart solution backed by AI/ML which will recognize the type of tax notice and hence will be able to provide information related to the type, cause of the notice, key attributes extraction, etc. In this talk, we’ll discuss the 3 part system covering -
+        <br>- Conversion of the scanned image to text using OCR
+        <br>- Document classification using NLP techniques to categorize the tax notices
+        <br>- Extraction of key information from the document required for further resolution by tax experts"

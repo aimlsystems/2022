@@ -6,8 +6,7 @@ title: Research Invited Speakers
 {:.nt-header}
 <!-- ## Invited Talks
  -->
- {:.text-center}
- ### {{ panel.time }}
+
 {% assign speakers = site.data.researchinvitedTalk.invited %}
 
 {% assign sm-modulo = speakers.size | modulo: 2 %}

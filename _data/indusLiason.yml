@@ -13,7 +13,12 @@ invited:
     title: "Riding the Flywheel of Recommender Systems"
     abstract:
       - Today recommender systems have an unprecedented influence on what content people consume on the internet and social media and what products they purchase on e-commerce platforms. For many internet companies, their recommender system happens to be the key lever to trigger the flywheel on user growth as well as monetisation. This talk emphasizes why we need to balance the objectives of multiple stakeholders when recommenders are deployed in a marketplace in order to properly ride the flywheel. We explain the need of optimizing for long term success in such a recommender system and what kind of short term trade-offs may be necessary. Further, we discuss multiple open problems in the state of the art of deep recommender systems, including addressing different kinds of biases picked up by trained representations, handling evolving behavioral data and so on.
-
+  
+  Girish Nathan:
+    title: "Machine Learning in Fintech"
+    abstract:
+      - Machine learning has various applications in financial technology, from fraud detection to risk modeling and mitigation to underwriting, amongst several others. In this talk, we show two interesting and important applications of machine learning at Razorpay- KYC validation for setting up current and savings accounts, and building insurance models to predict the return-to-origin (RTO) probabilities for merchants. Further, we discuss the role of privacy preserving machine learning on sensitive and confidential data.
+  
   Ramesh Nallapati:
     title: "Using AI to Accelerate Code Development"
     abstract:

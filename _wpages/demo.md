@@ -84,7 +84,7 @@ Artificial Intelligence/Machine Learning is facing many hurdles in its journey t
 * Dinesh Mr Ghanta, Oracle 
 * Prateek Katageri, Oracle
 * Girish Nautiyal, Oracle
-* Indradumna  Banerjee, Oracle 
+* Indradumna Banerjee, Oracle 
 * Pradeep Sanchana, Oracle
 * Atin Modi, Oracle
 

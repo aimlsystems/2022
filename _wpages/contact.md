@@ -21,8 +21,7 @@ menutitle: Contact
 > +91 8861452113
 
 * Sushma Srinivasan
-> [sushmas@iisc.ac.in](mailto:sushmas@iisc.ac.in) \
-> +91 9242494999
+> [sushmas@iisc.ac.in](mailto:sushmas@iisc.ac.in) 
 
 
 ##### Sponsorship / Local Arrangements

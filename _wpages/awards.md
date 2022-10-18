@@ -7,7 +7,7 @@ menutitle: Awards
 
 
 <div class="alert alert-secondary">
-	<center>
+<center>
 <span style="font-size: 28px" class=" text-attention">CONGRATULATIONS TO ALL THE WINNERS AT AIMLSystems 2022</span><br>
 			<h3 id="Best Paper Award" style="color: black">Best Paper Award</h3>
 
@@ -17,8 +17,8 @@ menutitle: Awards
 
 <h3 id="best-doctoral-work"  style="color: black">Best Doctoral Symposium Award</h3>
 <p><em>Data efficient class incremental learning</em>
-	<br />Jayateja Kalla and Soma Biswas(IISc)</p>
-	</center>
-		</div>
+<br />Jayateja Kalla and Soma Biswas(IISc)</p>
+</center>
+</div>
 
 

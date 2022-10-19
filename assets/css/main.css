@@ -3063,6 +3063,13 @@ input, select, textarea {
                 /*background: #006400;*/
                 border-radius: 40px;
             }
+     .oval-awards {
+                width: 320px;
+                height: 35px;
+                background: #90EE90;
+                /*background: #006400;*/
+                border-radius: 40px;
+            }
 /*.blink-bg{
 		color: #fff;
 		padding: 0px;
